@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dispersal simulations | Marlon E. Cobos</title><link>https://marlonecobos..github.io/tag/dispersal-simulations/</link><atom:link href="https://marlonecobos..github.io/tag/dispersal-simulations/index.xml" rel="self" type="application/rss+xml"/><description>Dispersal simulations</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><image><url>https://marlonecobos..github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Dispersal simulations</title><link>https://marlonecobos..github.io/tag/dispersal-simulations/</link></image><item><title>grinnell</title><link>https://marlonecobos..github.io/software/grinnell/</link><pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/software/grinnell/</guid><description>&lt;h2 id="what-is-grinnell">What is grinnell?&lt;/h2>
+&lt;p style="text-align: justify;">&lt;strong>grinnell&lt;/strong> is an R package to simulate dispersal and accessibility based on niche estimations. One of the main functionalities is the simulation of species accessible areas (M), which can be used as calibration areas in Ecological Niche Models (ENM) and Species Distribution Models (SDM). These tools are based on the methods proposed by &lt;a href="https://escholarship.org/uc/item/8hq04438" target="_blank" rel="noopener">Machado-Stredel et al. (2021)&lt;/a>.&lt;/p>
+&lt;br>
+&lt;h2 id="check-the-grinnell-package">Check the grinnell package&lt;/h2>
+&lt;p style="text-align: justify;">If you want to try this tool you can install it on R from CRAN using &lt;code>remotes::install_github(&amp;quot;fmachados/grinnell&amp;quot;)&lt;/code>. An example of its use can be found &lt;a href="https://github.com/fmachados/grinnell#grinnell-dispersal-simulations-based-on-ecological-niches" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;br></description></item><item><title>Modeling and Simulations</title><link>https://marlonecobos..github.io/project/biodiversity-informatics/</link><pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/project/biodiversity-informatics/</guid><description>&lt;p style="text-align: justify;">I have been interested in informatics tools to deal with ecological modeling
+and simulations since I started my PhD. Bellow you can find a brief description
+of the tools I have developed with the help of an amazing group of colleagues.&lt;/p>
+&lt;br>
+&lt;h3 id="ecological-niche-modeling">Ecological niche modeling&lt;/h3>
+&lt;p style="text-align: justify;">The following is a list of tools that implement methods and techniques to
+perform a series of steps in order to characterize and project ecological niches
+of species. These characterizations allow us to
+hypothesize about the factors that drive species distributions, and where
+suitable conditions exist.
+&lt;a href="https://marlonecobos..github.io/software/">Link to software&lt;/a>&lt;/p>
+&lt;br>
+&lt;h3 id="dispersal-simulations">Dispersal simulations&lt;/h3>
+&lt;p style="text-align: justify;">The following is a list of tools that implement methods and techniques to
+perform a series of steps in order to characterize and project ecological niches
+of species. These characterizations allow us to
+hypothesize about the factors that drive species distributions, and where
+suitable conditions exist.
+&lt;a href="https://marlonecobos..github.io/software/grinnell/">Link to software&lt;/a>&lt;/p>
+&lt;br>
+&lt;h3 id="to-do-list">To do list&lt;/h3></description></item></channel></rss>

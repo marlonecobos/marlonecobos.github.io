@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nichevol | Marlon E. Cobos</title>
+    <link>https://example.com/tag/nichevol/</link>
+      <atom:link href="https://example.com/tag/nichevol/index.xml" rel="self" type="application/rss+xml" />
+    <description>nichevol</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>nichevol</title>
+      <link>https://example.com/tag/nichevol/</link>
+    </image>
+    
+    <item>
+      <title>Biodiversity Informatics</title>
+      <link>https://example.com/project/biodiversity-informatics/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/biodiversity-informatics/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;I have been interested in informatics tools to deal with biodiversity data and
+ecological modeling since I started my PhD. Bellow you can find a list of the
+tools I have developed with the help of an amazing group of friends interested
+in the same topics.&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;biodiversity-inventory&#34;&gt;Biodiversity inventory&lt;/h3&gt;
+&lt;p&gt;Have you ever wondered where to go to register biodiversity more efficiently?&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://CRAN.R-project.org/package=biosurvey&#34; target=&#34;_blank&#34;&gt;biosurvey&lt;/a&gt;&lt;/strong&gt;
+is an R package that implements multiple tools to select sampling sites for
+biodiversity inventory. The goal is to increase the effectiveness of such sites
+by considering the relationship between environmental and geographic conditions
+in a region of interest. Take a look at the
+&lt;a href=&#34;https://github.com/claununez/biosurvey/&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt; and
+a &lt;a href=&#34;https://claununez.github.io/biosurvey/&#34; target=&#34;_blank&#34;&gt;guide&lt;/a&gt; if
+you are interested.&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;ecological-niche-modeling&#34;&gt;Ecological niche modeling&lt;/h3&gt;
+&lt;p&gt;The following is a list of tools that implement methods and techniques to
+perform a series of steps in order to characterize and project ecological niches
+of species. These characterizations allow us to
+hypothesize about the factors that drive species distributions, and where
+suitable conditions exist.&lt;/p&gt;
+&lt;br&gt;
+&lt;h4 id=&#34;ellipsenm&#34;&gt;ellipsenm&lt;/h4&gt;
+&lt;br&gt;
+&lt;h4 id=&#34;grinnell&#34;&gt;grinnell&lt;/h4&gt;
+&lt;br&gt;
+&lt;h4 id=&#34;kuenm&#34;&gt;kuenm&lt;/h4&gt;
+&lt;br&gt;
+&lt;h4 id=&#34;nichevol&#34;&gt;nichevol&lt;/h4&gt;
+&lt;br&gt;
+&lt;h4 id=&#34;rangemap&#34;&gt;rangemap&lt;/h4&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>null | Marlon E. Cobos</title><link>https://marlonecobos..github.io/</link><atom:link href="https://marlonecobos..github.io/index.xml" rel="self" type="application/rss+xml"/><description>null</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate><image><url>https://marlonecobos..github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>null</title><link>https://marlonecobos..github.io/</link></image><item><title>Example Talk</title><link>https://marlonecobos..github.io/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+&lt;p>Slides can be added in a few ways:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>enmpa</title><link>https://marlonecobos..github.io/software/enmpa/</link><pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/software/enmpa/</guid><description>&lt;h2 id="what-is-enmpa">What is enmpa?&lt;/h2>
+&lt;p style="text-align: justify;">&lt;strong>enmpa&lt;/strong> comprises a set of tools to perform Ecological Niche Modeling using presence-absence data and logistic generalized linear models. Some of the main functions help perform data partitioning, model calibration, model selection, variable response exploration, and model projection.&lt;/p>
+&lt;br>
+&lt;h2 id="check-the-enmpa-package">Check the enmpa package&lt;/h2>
+&lt;p style="text-align: justify;">If you want to try this tool you can install it on R from GitHub using &lt;code>remotes::install_github(&amp;quot;Luisagi/enmpa&amp;quot;)&lt;/code>. An example of its use can be found &lt;a href="https://github.com/Luisagi/enmpa#enmpa-ecological-niche-modeling-for-presence-absence-data" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;br></description></item><item><title>grinnell</title><link>https://marlonecobos..github.io/software/grinnell/</link><pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/software/grinnell/</guid><description>&lt;h2 id="what-is-grinnell">What is grinnell?&lt;/h2>
+&lt;p style="text-align: justify;">&lt;strong>grinnell&lt;/strong> is an R package to simulate dispersal and accessibility based on niche estimations. One of the main functionalities is the simulation of species accessible areas (M), which can be used as calibration areas in Ecological Niche Models (ENM) and Species Distribution Models (SDM). These tools are based on the methods proposed by &lt;a href="https://escholarship.org/uc/item/8hq04438" target="_blank" rel="noopener">Machado-Stredel et al. (2021)&lt;/a>.&lt;/p>
+&lt;br>
+&lt;h2 id="check-the-grinnell-package">Check the grinnell package&lt;/h2>
+&lt;p style="text-align: justify;">If you want to try this tool you can install it on R from CRAN using &lt;code>remotes::install_github(&amp;quot;fmachados/grinnell&amp;quot;)&lt;/code>. An example of its use can be found &lt;a href="https://github.com/fmachados/grinnell#grinnell-dispersal-simulations-based-on-ecological-niches" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;br></description></item><item><title>biosurvey</title><link>https://marlonecobos..github.io/software/biosurvey/</link><pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/software/biosurvey/</guid><description>&lt;h2 id="what-is-biosurvey">What is biosurvey?&lt;/h2>
+&lt;p style="text-align: justify;">&lt;strong>biosurvey&lt;/strong> R package implements multiple tools to select sampling sites for biodiversity inventory, increasing effectiveness by considering the relationship of environmental and geographic conditions in a region. The functions are grouped in three main modules: 1) Data preparation; 2) Selection of sampling sites; and, 3) Tools for testing effectiveness (Fig. 1). Data are prepared in ways that avoid the need for more data in posterior analyses and allow users to focus on critical methodological decisions to select sampling sites. Various algorithms for selecting sampling sites are available, and options for considering pre-selected sites (known to be important for biodiversity monitoring) are included. Visualization is a critical component in this set of tools and most of the results obtained can be plotted to help users to understand their implications. Methodological bases for these tools can be found in &lt;a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13869" target="_blank" rel="noopener">Nuñez et al. (2022)&lt;/a>.&lt;/p>
+&lt;img src="biosurvey.png" align="center"/>
+&lt;h2 id="check-the-biosurvey-package">Check the biosurvey package&lt;/h2>
+&lt;p style="text-align: justify;">If you want to try this tool you can install it on R from GitHub using &lt;code>remotes::install_github(&amp;quot;claununez/biosurvey&amp;quot;)&lt;/code>. An example of its use can be found &lt;a href="https://github.com/claununez/biosurvey/tree/master#biosurvey-tools-for-biological-survey-planning" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;br></description></item><item><title>ellipsenm</title><link>https://marlonecobos..github.io/software/ellipsenm/</link><pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/software/ellipsenm/</guid><description>&lt;h2 id="what-is-ellipsenm">What is ellipsenm?&lt;/h2>
+&lt;p style="text-align: justify;">&lt;strong>ellipsenm&lt;/strong> is an R package that implements multiple tools to help in using ellipsoid envelopes to model ecological niches of species. Handy options for calibrating and selecting models, producing models with replicates and projections, and assessing niche overlap are included as part of this package. Other functions implemented here are useful to perform a series of pre- and post-modeling analyses. A good reference of it use in research is &lt;a href="https://escholarship.org/uc/item/4f00x5r6" target="_blank" rel="noopener">Nuñez et al. (2021)&lt;/a>.&lt;/p>
+&lt;img src="featured.gif" align="center"/>
+&lt;h2 id="check-the-ellipsenm-package">Check the ellipsenm package&lt;/h2>
+&lt;p style="text-align: justify;">If you want to try this tool you can install it on R from GitHub using &lt;code>remotes::install_github(&amp;quot;marlonecobos/ellipsenm&amp;quot;)&lt;/code>. An example of its use can be found &lt;a href="https://github.com/marlonecobos/ellipsenm#ellipsenm-an-r-package-for-ecological-niches-characterization-usingellipsoids" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;br></description></item><item><title>kuenm</title><link>https://marlonecobos..github.io/software/kuenm/</link><pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/software/kuenm/</guid><description>&lt;h2 id="what-is-kuenm">What is kuenm?&lt;/h2>
+&lt;p style="text-align: justify;">&lt;strong>kuenm&lt;/strong> is an R package designed to make the process of model calibration and final model creation easier and more reproducible, and at the same time more robust. The aim of this package is to design suites of candidate models to create diverse calibrations of Maxent models and enable selection of optimal parameterizations for each study. Other objectives of this program are to make the task of creating final models and their transfers easier, as well to permit assessing extrapolation risks when model transfers are needed. Check the reference in &lt;a href="https://peerj.com/articles/6281/" target="_blank" rel="noopener">Cobos et al. (2019)&lt;/a>.&lt;/p>
+&lt;br>
+&lt;h2 id="check-the-kuenm-package">Check the kuenm package&lt;/h2>
+&lt;p style="text-align: justify;">If you want to try this tool you can install it on R from GitHub using &lt;code>remotes::install_github(&amp;quot;marlonecobos/kuenm&amp;quot;)&lt;/code>. An example of its use can be found &lt;a href="https://github.com/marlonecobos/kuenm#kuenm-an-r-package-for-detailed-development-of-maxent-ecological-niche-models" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;br></description></item><item><title>List of scientific publications</title><link>https://marlonecobos..github.io/publication/all_pubs/</link><pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/publication/all_pubs/</guid><description>&lt;h3 id="journal-articles">Journal Articles&lt;/h3>
+&lt;style>
+td {
+vertical-align: top;
+}
+table th:first-of-type {
+width: 4%;
+}
+table th:nth-of-type(2) {
+width: 96%;
+}
+&lt;/style>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">45&lt;/td>
+&lt;td style="text-align:left">Bernardinis, G. B., &lt;strong>Cobos, M. E.&lt;/strong>, Brum, F. T., Marques, M. C. M., Peterson, A. T., &amp;hellip;, &amp;amp; Zwiener, V. P.. (2023) Ecological restoration and protection of remnants are key to the survival of the critically endangered &lt;em>Araucaria&lt;/em> tree under climate change. &lt;em>Global Ecology and Conservation&lt;/em>, 47, e02668. &lt;a href="https://doi.org/10.1016/j.gecco.2023.e02668" target="_blank" rel="noopener">link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">44&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong>, Nuñez-Penichet, C., Campbell, P. D., Cooper, J. A., Machado-Stredel, F., &amp;hellip;, &amp;amp; Peterson, A. T. (2023). Effects of occurrence data density on conservation prioritization strategies. &lt;em>Biological Conservation&lt;/em>, 284, 110207. &lt;a href="https://www.sciencedirect.com/science/article/pii/S0006320723003087" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">43&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong>, &amp;amp; Peterson, A. T. (2023). Broad-scale factors shaping the ecological niche and geographic distribution of &lt;em>Spirodela polyrhiza&lt;/em>. &lt;em>PLoS ONE&lt;/em>, 18, e0276951. &lt;a href="https://doi.org/10.1371/journal.pone.0276951" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">42&lt;/td>
+&lt;td style="text-align:left">Colella, J. P., &lt;strong>Cobos, M. E.&lt;/strong>, Salinas, I., Cook, J. A., &amp;amp; The PICANTE Consortium. (2023). Advancing the central role of non-model biorepositories in predictive modeling of emerging pathogens. &lt;em>PLOS Pathogens&lt;/em>, 19, e1011410. &lt;a href="https://doi.org/10.1371/journal.ppat.1011410" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">41&lt;/td>
+&lt;td style="text-align:left">Ashraf, U., Peterson, A. T., Chaudhry, M. N., &amp;amp; &lt;strong>Cobos, M. E.&lt;/strong> (2023). Global ecological niche conservatism and evolution in &lt;em>Olea&lt;/em> species. &lt;em>Saudi Journal of Biological Sciences&lt;/em>, 30(1), 103500. &lt;a href="https://doi.org/10.1016/j.sjbs.2022.103500" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">40&lt;/td>
+&lt;td style="text-align:left">Alkishe, A., &lt;strong>Cobos, M. E.&lt;/strong>, Osorio-Olvera, L., &amp;amp; Peterson, A. T. (2022). Ecological niche and potential geographic distributions of &lt;em>Dermacentor marginatus&lt;/em> and &lt;em>Dermacentor reticulatus&lt;/em> (Acari: Ixodidae) under current and future climate conditions. &lt;em>Web Ecology&lt;/em>, 22(2), 33–45. &lt;a href="https://doi.org/10.5194/we-22-33-2022" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">39&lt;/td>
+&lt;td style="text-align:left">Busby, W. H., Barve, N., &lt;strong>Cobos, M. E.&lt;/strong>, &amp;amp; Peterson, A. T. (2022). Effects of landscape history on current geographic distributions of four species of reptiles and amphibians in Kansas. &lt;em>The Southwestern Naturalist&lt;/em>, 66(2), 157–165. &lt;a href="https://doi.org/10.1894/0038-4909-66.2.157" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">38&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong>, Barve, V., Barve, N., Jiménez-Valverde, A., &amp;amp; Nuñez-Penichet, C. (2022). rangemap: An R package to explore species’ geographic ranges. &lt;em>Biodiversity Informatics&lt;/em>, 17, 59–66. &lt;a href="https://doi.org/10.17161/bi.v17i.16271" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">37&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong>, &amp;amp; Peterson, A. T. (2022). Detecting signals of species’ ecological niches in results of studies with defined sampling protocols: Example application to pathogen niches. &lt;em>Biodiversity Informatics&lt;/em>, 17, 50–58. &lt;a href="https://doi.org/10.17161/bi.v17i.15985" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">36&lt;/td>
+&lt;td style="text-align:left">Contreras-Díaz, R. G., Falconi, M., Osorio-Olvera, L., &lt;strong>Cobos, M. E.&lt;/strong>, Soberón, J., &amp;hellip;, &amp;amp; Vásquez-Martínez, R. (2022). On the relationship between environmental suitability and habitat use for three neotropical mammals. &lt;em>Journal of Mammalogy&lt;/em>, 103(2), 425–439. &lt;a href="https://doi.org/10.1093/jmammal/gyab152" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">35&lt;/td>
+&lt;td style="text-align:left">Machado-Stredel, F., Freeman, B., Jiménez-Garcia, D., &lt;strong>Cobos, M. E.&lt;/strong>, Nuñez-Penichet, C., &amp;hellip;, &amp;amp; Peterson, A. T. (2022). On the potential of documenting decadal-scale avifaunal change from before-and-after comparisons of museum and observational data across North America. &lt;em>Avian Research&lt;/em>, 13, 100005. &lt;a href="https://doi.org/10.1016/j.avrs.2022.100005" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">34&lt;/td>
+&lt;td style="text-align:left">Nuñez-Penichet, C., &lt;strong>Cobos, M. E.&lt;/strong>, Soberón, J., Gueta, T., Barve, N., &amp;hellip;, &amp;amp; Peterson, A. T. (2022). Selection of sampling sites for biodiversity inventory: Effects of environmental and geographical considerations. &lt;em>Methods in Ecology and Evolution&lt;/em>, 13(7), 1595–1607. &lt;a href="https://doi.org/10.1111/2041-210X.13869" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">33&lt;/td>
+&lt;td style="text-align:left">Peterson, A. T., Aiello-Lammens, M., Amatulli, G., Anderson, R., &lt;strong>Cobos, M. E.&lt;/strong>, &amp;hellip;, Zurell, D. (2022). ENM2020: A free online course and set of resources on modeling species’ niches and distributions. &lt;em>Biodiversity Informatics&lt;/em>, 17, 1–9. &lt;a href="https://doi.org/10.17161/bi.v17i.15016" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">32&lt;/td>
+&lt;td style="text-align:left">Banks, W. E., Moncel, M.-H., Raynal, J.-P., &lt;strong>Cobos, M. E.&lt;/strong>, Romero-Alvarez, D., &amp;hellip;, &amp;amp; Santos, F. (2021). An ecological niche shift for Neanderthal populations in Western Europe 70,000 years ago. &lt;em>Scientific Reports&lt;/em>, 11(1), 5346. &lt;a href="https://doi.org/10.1038/s41598-021-84805-6" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">31&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong>, Cheng, Y., Song, G., Lei, F., &amp;amp; Peterson, A. T. (2021). New distributional opportunities with niche innovation in Eurasian snowfinches. &lt;em>Journal of Avian Biology&lt;/em>, 52(12), e02868. &lt;a href="https://doi.org/10.1111/jav.02868" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">30&lt;/td>
+&lt;td style="text-align:left">DeRaad, D. A., &lt;strong>Cobos, M. E.&lt;/strong>, Alkishe, A., Ashraf, U., Ahadji-Dabla, K. M., &amp;hellip;, &amp;amp; Peterson, A. T. (2021). Genome-environment association methods comparison supports omnigenic adaptation to ecological niche in malaria vector mosquitoes. &lt;em>Molecular Ecology&lt;/em>, 30(23), 6468–6485. &lt;a href="https://doi.org/10.1111/mec.16094" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">29&lt;/td>
+&lt;td style="text-align:left">Gonzalez, V. H., &lt;strong>Cobos, M. E.&lt;/strong>, Jaramillo, J., &amp;amp; Ospina, R. (2021). Climate change will reduce the potential distribution ranges of Colombia’s most valuable pollinators. Perspectives in Ecology and Conservation, 19(2), 195–206. &lt;a href="https://doi.org/10.1016/j.pecon.2021.02.010" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">28&lt;/td>
+&lt;td style="text-align:left">Machado-Stredel, F., &lt;strong>Cobos, M. E.&lt;/strong>, &amp;amp; Peterson, A. T. (2021). A simulation-based method for identifying accessible areas as calibration areas for ecological niche models and species distribution models. &lt;em>Frontiers of Biogeography&lt;/em>, 13(4), e48814. &lt;a href="https://doi.org/10.21425/F5FBG48814" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">27&lt;/td>
+&lt;td style="text-align:left">Nuñez-Penichet, C., &lt;strong>Cobos, M. E.&lt;/strong>, Checa, M. F., Quinde, J. D., Aguirre, Z., &amp;amp; Aguirre, N. (2021). High diversity of diurnal Lepidoptera associated with landscape heterogeneity in semi-urban areas of Loja City, southern Ecuador. &lt;em>Urban Ecosystems&lt;/em>, 24(6), 1155–1164. &lt;a href="https://doi.org/10.1007/s11252-021-01110-w" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">26&lt;/td>
+&lt;td style="text-align:left">Nuñez-Penichet, C., &lt;strong>Cobos, M. E.&lt;/strong>, &amp;amp; Soberón, J. (2021). Non-overlapping climatic niches and biogeographic barriers explain disjunct distributions of continental &lt;em>Urania&lt;/em> moths. &lt;em>Frontiers of Biogeography&lt;/em>, 13(2), e52142. &lt;a href="https://doi.org/10.21425/F5FBG52142" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">25&lt;/td>
+&lt;td style="text-align:left">Nuñez-Penichet, C., Osorio-Olvera, L., Gonzalez, V. H., &lt;strong>Cobos, M. E.&lt;/strong>, Jiménez, L., &amp;hellip;, &amp;amp; Soberon, J. (2021). Geographic potential of the world’s largest hornet, &lt;em>Vespa mandarinia&lt;/em> Smith (Hymenoptera: Vespidae), worldwide and particularly in North America. &lt;em>PeerJ&lt;/em>, 9, e10690. &lt;a href="https://doi.org/10.7717/peerj.10690" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">24&lt;/td>
+&lt;td style="text-align:left">Raghavan, R. K., Koestel, Z., Ierardi, R., Peterson, A. T., &amp;amp; &lt;strong>Cobos, M. E.&lt;/strong> (2021). Climatic suitability of the eastern paralysis tick, &lt;em>Ixodes holocyclus&lt;/em>, and its likely geographic distribution in the year 2050. &lt;em>Scientific Reports&lt;/em>, 11(1), 15330. &lt;a href="https://doi.org/10.1038/s41598-021-94793-2" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">23&lt;/td>
+&lt;td style="text-align:left">Simões, M. V. P., Saeedi, H., &lt;strong>Cobos, M. E.&lt;/strong>, &amp;amp; Brandt, A. (2021). Environmental matching reveals non-uniform range-shift patterns in benthic marine Crustacea. &lt;em>Climatic Change&lt;/em>, 168(3), 31. &lt;a href="https://doi.org/10.1007/s10584-021-03240-8" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">22&lt;/td>
+&lt;td style="text-align:left">Soberón, J., &lt;strong>Cobos, M. E.&lt;/strong>, &amp;amp; Nuñez-Penichet, C. (2021). Visualizing species richness and site similarity from presence-absence matrices. &lt;em>Biodiversity Informatics&lt;/em>, 16, 20–27. &lt;a href="https://doi.org/10.17161/bi.v16i1.14782" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">21&lt;/td>
+&lt;td style="text-align:left">Vignoles, A., Banks, W. E., Klaric, L., Kageyama, M., &lt;strong>Cobos, M. E.&lt;/strong>, &amp;amp; Romero-Alvarez, D. (2021). Investigating relationships between technological variability and ecology in the Middle Gravettian (ca. 32–28 ky cal. BP) in France. &lt;em>Quaternary Science Reviews&lt;/em>, 253, 106766. &lt;a href="https://doi.org/10.1016/j.quascirev.2020.106766" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">20&lt;/td>
+&lt;td style="text-align:left">Alkishe, A., &lt;strong>Cobos, M. E.&lt;/strong>, Peterson, A. T., &amp;amp; Samy, A. M. 2020. Recognizing sources of uncertainty in disease vector ecological niche models: An example with the tick &lt;em>Rhipicephalus sanguineus sensu lato&lt;/em>. &lt;em>Perspectives in Ecology and Conservation&lt;/em>. &lt;a href="https://doi.org/10.1016/j.pecon.2020.03.002" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">19&lt;/td>
+&lt;td style="text-align:left">Mazón, M., Nuñez-Penichet, C., &amp;amp; &lt;strong>Cobos, M. E.&lt;/strong> 2020. Relationship between body mass and forewing length in Neotropical Ichneumonidae (Insecta: Hymenoptera). &lt;em>Neotropical Entomology&lt;/em>. &lt;a href="https://doi.org/10.1007/s13744-020-00784-9" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">18&lt;/td>
+&lt;td style="text-align:left">Owens, H. L., Ribeiro, V., Saupe, E. E., &lt;strong>Cobos, M. E.&lt;/strong>, Hosner, P. A., &amp;hellip;, &amp;amp; Peterson, A. T. 2020. Acknowledging uncertainty in evolutionary reconstructions of ecological niches. &lt;em>Ecology and Evolution&lt;/em>, 10(14), 6967–6977. &lt;a href="https://doi.org/10.1002/ece3.6359" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">17&lt;/td>
+&lt;td style="text-align:left">Simões, M., Romero-Alvarez, D., Nuñez-Penichet, C., Jiménez, L., &amp;amp; &lt;strong>Cobos, M. E.&lt;/strong> 2020. General theory and good practices in ecological niche modeling: A basic guide. &lt;em>Biodiversity Informatics&lt;/em>, 15(2), 67–68. &lt;a href="https://doi.org/10.17161/bi.v15i2.13376" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">16&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong>, Peterson, A. T., Osorio-Olvera, L., &amp;amp; Jiménez-García, D. 2019. An exhaustive analysis of heuristic methods for variable selection in ecological niche modeling and species distribution modeling. &lt;em>Ecological Informatics&lt;/em>, 53, 100983. &lt;a href="https://doi.org/10.1016/j.ecoinf.2019.100983" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">15&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong>, Peterson, A. T., Barve, N., &amp;amp; Osorio-Olvera, L. 2019. kuenm: An R package for detailed development of ecological niche models using Maxent. &lt;em>PeerJ&lt;/em>, 7, e6281. &lt;a href="https://doi.org/10.7717/peerj.6281" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">14&lt;/td>
+&lt;td style="text-align:left">Nuñez‐Penichet, C., &lt;strong>Cobos, M. E.&lt;/strong>, Barro, A., &amp;amp; Soberón, J. 2019. Potential migratory routes of &lt;em>Urania boisduvalii&lt;/em> (Lepidoptera: Uraniidae) among host plant populations. &lt;em>Diversity and Distributions&lt;/em>, 25(3), 478–488. &lt;a href="https://doi.org/10.1111/ddi.12881" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">13&lt;/td>
+&lt;td style="text-align:left">Peterson, A. T., Anderson, R. P., Beger, M., Bolliger, J., Brotons, L., Burridge, C. P., &lt;strong>Cobos, M. E.&lt;/strong>, &amp;hellip;, &amp;amp; Zurell, D. 2019. Open access solutions for biodiversity journals: Do not replace one problem with another. &lt;em>Diversity and Distributions&lt;/em>, 25(1), 5–8. &lt;a href="https://doi.org/10.1111/ddi.12885" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">12&lt;/td>
+&lt;td style="text-align:left">Peterson, A. T., Anderson, R. P., &lt;strong>Cobos, M. E.&lt;/strong>, Cuahutle, M., Cuervo-Robayo, A. P., &amp;hellip;, &amp;amp; Yañez-Arenas, C. 2019. Curso modelado de nicho ecológico, version 1.0. &lt;em>Biodiversity Informatics&lt;/em>, 14, 1–7. &lt;a href="https://doi.org/10.17161/bi.v14i0.8189" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">11&lt;/td>
+&lt;td style="text-align:left">Raghavan, R. K., Barker, S. C., &lt;strong>Cobos, M. E.&lt;/strong>, Barker, D., Teo, E. J. M., &amp;hellip;, &amp;amp; Peterson, A. T. 2019. Potential spatial distribution of the newly introduced Long-horned tick, &lt;em>Haemaphysalis longicornis&lt;/em> in North America. &lt;em>Scientific Reports&lt;/em>, 9(1), 498. &lt;a href="https://doi.org/10.1038/s41598-018-37205-2" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">10&lt;/td>
+&lt;td style="text-align:left">Raghavan, Ram K., Peterson, A. T., &lt;strong>Cobos, M. E.&lt;/strong>, Ganta, R., &amp;amp; Foley, D. 2019. Current and future distribution of the Lone Star Tick, &lt;em>Amblyomma americanum&lt;/em> (L.) (Acari: Ixodidae) in North America. &lt;em>PLoS ONE&lt;/em>, 14(1), e0209082. &lt;a href="https://doi.org/10.1371/journal.pone.0209082" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">9&lt;/td>
+&lt;td style="text-align:left">Ramírez-Gil, J. G., &lt;strong>Cobos, M. E.&lt;/strong>, Jiménez-García, D., Morales-Osorio, J. G., &amp;amp; Peterson, A. T. 2019. Current and potential future distributions of Hass avocados in the face of climate change across the Americas. &lt;em>Crop and Pasture Science&lt;/em>, 70(8), 694–708. &lt;a href="https://doi.org/10.1071/CP19094" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">8&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong>, &amp;amp; Alonso Bosch, R. 2018. Breeding sites of a narrowly distributed amphibian, a key element in its conservation in the face of global change. &lt;em>Aquatic Conservation: Marine and Freshwater Ecosystems&lt;/em>, 28, 1089–1098. &lt;a href="https://doi.org/10.1002/aqc.2967" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">7&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong>, Jiménez, L., Nuñez-Penichet, C., Romero-Alvarez, D., &amp;amp; Simoes, M. 2018. Sample data and training modules for cleaning biodiversity information. &lt;em>Biodiversity Informatics&lt;/em>, 13, 49–50. &lt;a href="https://doi.org/10.17161/bi.v13i0.7600" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">6&lt;/td>
+&lt;td style="text-align:left">Peterson, A. T., &lt;strong>Cobos, M. E.&lt;/strong>, &amp;amp; Jiménez‐García, D. 2018. Major challenges for correlational ecological niche model projections to future climate conditions. &lt;em>Annals of the New York Academy of Sciences&lt;/em>, 1429(1), 66–77. &lt;a href="https://doi.org/10.1111/nyas.13873" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">5&lt;/td>
+&lt;td style="text-align:left">Torres-Porras, J., &lt;strong>Cobos, M. E.&lt;/strong>, Seoane, J. M., &amp;amp; Aguirre, N. 2017. Large and medium-sized mammals of Buenaventura Reserve, southwestern Ecuador. &lt;em>Check List&lt;/em>, 13(4), 35–45.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">4&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong>, &amp;amp; Alonso Bosch, R. 2016. Recent and future threats to the Endangered Cuban toad &lt;em>Peltophryne longinasus&lt;/em>: Potential additive impacts of climate change and habitat loss. &lt;em>Oryx.&lt;/em> &lt;a href="https://doi.org/10.1017/S0030605316000612" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">3&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong>, Cruz, D. D., &amp;amp; Hernández, M. 2016. Análisis multitemporal del Índice Normalizado de Diferencia de Vegetación (NDVI) en Cuba. &lt;em>Revista Del Jardín Botánico Nacional&lt;/em>, 37, 15–18.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">2&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong>, Nuñez-Penichet, C., &amp;amp; Valarezo-Aguilar, K. 2016. First record of an American Bullfrog (&lt;em>Lithobates catesbeianus&lt;/em>) population in Loja, Ecuador. &lt;em>IRCF Reptiles and Amphibians&lt;/em>, 22(1), 46–48.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">1&lt;/td>
+&lt;td style="text-align:left">Nuñez-Penichet, C., &lt;strong>Cobos, M. E.&lt;/strong>, Gutiérrez, J. E., &amp;amp; Barro, A. 2016. Distribución potencial del género &lt;em>Omphalea&lt;/em> (Euphorbiaceae) en Cuba: Aproximación a su distribución real. &lt;em>Revista Del Jardín Botánico Nacional&lt;/em>, 37, 165–175.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h3 id="books">Books&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">1&lt;/td>
+&lt;td style="text-align:left">Aguirre, N., Mazón, M., &amp;amp; &lt;strong>Cobos, M. E.&lt;/strong> 2019. &lt;em>Comunicar y divulgar la ciencia. Redacción y publicación de trabajos científicos y divulgativos&lt;/em>. EDILOJA. Loja, Ecuador.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h3 id="other-publications">Other Publications&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">3&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong> 2023. Integrating Multiple Approaches for Comprehensive Correlative Ecological Niche Modeling. &lt;em>Doctoral Thesis&lt;/em>. University of Kansas.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">2&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong> 2016. Posibles implicaciones del cambio climático sobre la distribución de las especies del género &lt;em>Peltophryne&lt;/em> (Anura: Bufonidae) en Cuba. &lt;em>Master&amp;rsquo;s Thesis&lt;/em>. Universidad de La Habana.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">1&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong> 2012. Distribución potencial de la rana toro (&lt;em>Lithobates catesbeiana&lt;/em>, Anfibia: Anura) y su relación con la fragmentación de hábitats en Zamora Chinchipe, Ecuador. &lt;em>Bachelor&amp;rsquo;s Thesis&lt;/em>. Universidad Nacional de Loja.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h3 id="articles-in-prep-in-review-in-press-and-pre-prints">Articles in prep., in review, in press, and pre-prints&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">12&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong>, Dunnum, J. L., Armién, B., Gonzalez, P., Juarez, E., &amp;hellip;, &amp;amp; Colella, J. P. &lt;em>In prep&lt;/em>. Strategic surveillance of zoonotic pathogens: A case study of Hantaviruses in Panama.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">11&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong>, Winters, T., Martinez, I., Yao, Y., Xiao, X., &amp;amp; Peterson, A. T. &lt;em>In prep&lt;/em>. Time-specific ecological niche models to assess spatio-temporal activity of &lt;em>Amblyomma americanum&lt;/em> in the central Great Plains.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">10&lt;/td>
+&lt;td style="text-align:left">Ng’eno, E., &lt;strong>Cobos, M. E.&lt;/strong>, Romero-Alvarez, D., Alkishe, A., &amp;amp; Peterson, A. T. &lt;em>In prep&lt;/em>. Complex phenology of five tick species in the central Great Plains.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">9&lt;/td>
+&lt;td style="text-align:left">Peterson, A. T., Yao, Y., &lt;strong>Cobos, M. E.&lt;/strong>, &amp;amp; Xiao, X. &lt;em>In prep&lt;/em>. Correlative ecological niche model applications to predicting landscape-scale woody plant encroachment in Kansas tallgrass prairie systems.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">8&lt;/td>
+&lt;td style="text-align:left">Barve, N., Ashraf, U., Barve, V., &lt;strong>Cobos, M. E.&lt;/strong>, Nuñez-Penichet, C., &amp;amp; Peterson, A. T. &lt;em>In prep&lt;/em>. Revisiting plant hardiness zones to include multiple climatic stress dimensions.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">7&lt;/td>
+&lt;td style="text-align:left">DeRaad, D., &lt;strong>Cobos, M. E.&lt;/strong>, DeCicco, L., Venkatraman, M. X., Garrett, K. L., &amp;hellip;, &amp;amp; Schultz, A. &lt;em>In prep&lt;/em>. Revealing the source and potential spread of introduced &lt;em>Zosterops&lt;/em> white-eyes in North America using genomics and ecological niche modeling.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">6&lt;/td>
+&lt;td style="text-align:left">Arias-Giraldo, L. F., &lt;strong>Cobos, M. E.&lt;/strong>, &amp;amp; Peterson, A. T. &lt;em>In review&lt;/em>. enmpa: An R package for ecological niche modeling using presence-absence data and generalized linear models. &lt;em>Biodiversity Informatics&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">5&lt;/td>
+&lt;td style="text-align:left">Arias-Giraldo, L. F., &lt;strong>Cobos, M. E.&lt;/strong>, Peterson, A. T., Landa, B. B., &amp;amp; Navas-Cortés, J. A. &lt;em>In prep&lt;/em>. V d in Andalusia.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">4&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong>, Owens, H. L., Soberón, J., &amp;amp; Peterson, A. T. &lt;em>In review&lt;/em>. Detailed characterizations of non-analogous conditions in multivariate environmental comparisons via the Mobility Oriented Parity metric. &lt;em>Frontiers of Biogeography&lt;/em>. &lt;a href="https://doi.org/10.17161/bi.v14i0.8189" target="_blank" rel="noopener">BioRxiv Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">3&lt;/td>
+&lt;td style="text-align:left">Peterson, A. T., &lt;strong>Cobos, M. E.&lt;/strong>, Sikes, B., Soberón, J., Osorio-Olvera, L., &amp;hellip;, &amp;amp; Emmett, A. &lt;em>In review&lt;/em>. Relationships among cost, citation, and access in journal publishing by an Ecology and Evolutionary Biology Department at a U.S. University. &lt;em>PeerJ&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">2&lt;/td>
+&lt;td style="text-align:left">Alkishe, A., &lt;strong>Cobos, M. E.&lt;/strong>, &amp;amp; Peterson, A. T. &lt;em>In review&lt;/em>. Broad-scale ecological niches of pathogens vectored by the ticks &lt;em>Ixodes scapularis&lt;/em> and &lt;em>Amblyomma americanum&lt;/em> in North America. &lt;em>PeerJ&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">1&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Cobos, M. E.&lt;/strong>, Osorio-Olvera, L., &amp;amp; Peterson, A. T. 2019. Revealing the source and potential spread of introduced &lt;em>Zosterops&lt;/em> white-eyes in North America using genomics and ecological niche modeling. &lt;em>BioRxiv&lt;/em>. &lt;a href="https://doi.org/10.17161/bi.v14i0.8189" target="_blank" rel="noopener">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Mentoring</title><link>https://marlonecobos..github.io/mentoring/mentor/</link><pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/mentoring/mentor/</guid><description>&lt;p style="text-align: justify;">Mentoring is a truly fulfilling experience for me. As a early career scientist, I find immense joy in guiding and motivating the next generation of researchers. Through mentoring, I get to share not only my expertise but also the valuable lessons I have learned throughout my own journey. It is an opportunity to nurture students passion and curiosity, helping them grow into confident new scientist. It is more that me teaching them, they teach me new things every day. By mentoring new scientists, I am not just passing on knowledge; I&amp;rsquo;m contributing to the continuous progress of science, ensuring a brighter future for all of us.&lt;/p>
+&lt;p style="text-align: justify;">Below I list graduate and undergraduate students that have developed research projects under my mentorship.&lt;/p>
+&lt;br>
+&lt;h2 id="graduate-mentees">Graduate mentees&lt;/h2>
+&lt;style>
+table th:first-of-type {
+width: 30%;
+}
+table th:nth-of-type(2) {
+width: 2%;
+}
+table th:nth-of-type(3) {
+width: 68%;
+}
+&lt;/style>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Luis F. Arias-Giraldo&lt;/strong>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;img src="lfelipe.jpg" align="left" width="1000px"/>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Luis Felipe graduated from Universidad de Córdoba, and did his master&amp;rsquo;s at Universidad de Valecia in Spain. He is currently a Ph.D. student at the Spanish National Research Council. Luis Felipe visited KU and since then I have been mentoring him on a project focused on developing innovative methods and statistical tools for comprehensive ecological niche modeling using presence absence records. The methods and tools developed are generally applicable and will be soon available as a new R package, &lt;code>enmpa&lt;/code>. An application of these methods lead by Luis is focused geographically in Andalusia, Spain, where he is modeling risks derived from the fungus &lt;em>Verticillium dahliae&lt;/em> to Olive and Cotton plantations. Other collaborators in these projects include Blanca Landa, Juan Navas-Cortés, and Town Peterson.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;br>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Weverton Trindade&lt;/strong>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;img src="weverton.jpg" align="left" width="1000px"/>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Weverton graduated from Universidade de Coimbra, and did his master&amp;rsquo;s at Universidade Estadual de Ponta Grossa in Brazil. He is currently a Ph.D. student at Universidade Federal do Paraná. We met when Weverton came to KU as a research visitor and started working on an independent project focused on improving model selection routines for ecological niche modeling. The routines Weverton is developing can be applied to studies using ENM methods for a more robust selection of model parameters. These tools will available soon as part of a new version of the R package &lt;code>kuenm&lt;/code>. Other collaborators in these projects include Jorge Soberón, and Town Peterson.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;br>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Abby Perkins&lt;/strong>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;img src="abby.jpg" align="left" width="1000px"/>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Abby graduated from the University of Kansas. She is currently in the Peterson lab doing her Master&amp;rsquo;s in the EEB Department at KU. Abby is working on a project exploring new alternatives to deal with spatial autocorrelation in ecological niche modeling. Her work will be implemented in new routines for ENM calibration to help researchers control the effect of sampling biases in models. Other collaborators in this project include Weverton Trindade and Town Peterson.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;br>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Daniel Ibañez IV&lt;/strong>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;img src="danny.jpg" align="left" width="1000px"/>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Danny graduated from New Mexico State University. Currently, part of the Colella lab, Danny is doing his Master&amp;rsquo;s in the EEB Department at the University of Kansas. His project focuses on developing time-specific ecological niche models for the species &lt;em>Zygodontomys brevicauda&lt;/em>. Danny&amp;rsquo;s project is part of a bigger effort aiming to understand the dynamics of hantavirus prevalence in host populations in Panama. Other collaborators in this project include Alex Hey, Joe Cook, and Jocelyn Colella.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;br>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Alexander Hey&lt;/strong>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;img src="alex.jpeg" align="left" width="1000px"/>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Alex graduated from Colorado State University. He is also part of the Colella lab, doing his Master&amp;rsquo;s in the EEB Department at the University of Kansas. His project focuses on developing time-specific ecological niche models for the species &lt;em>Oligoryzomys costaricensis&lt;/em>. Alex&amp;rsquo;s project is also part of a long-term aiming to understand the dynamics of hantavirus prevalence in host populations in Panama. Other collaborators in this project include Danny Ibañez, Joe Cook, and Jocelyn Colella.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;br>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Janey Bryce&lt;/strong>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;img src="janey.jpg" align="left" width="1000px"/>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Janey graduated from the University of Maryland Global Campus. During her post-bacc at the University of Kansas, in the Colella lab, she focused on a project aiming to understand recent changes in small mammal communities in the State of Kansas. She is now in a Master&amp;rsquo;s program at Universidad Autónoma del Estado de México. Other collaborators in this project include Claudia Nuñez-Penichet and Jocelyn Colella.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;br>
+&lt;h2 id="undergraduate-mentees">Undergraduate mentees&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Ismari Martinez&lt;/strong>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;img src="ismari.jpg" align="left" width="1000px"/>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Ismari recently graduated from the University of Kansas. During the last semesters of her studies she developed a project focused on time-specific models of tick questing activity for tick species found in Kansas and Oklahoma. Other collaborators in this project include Taylor Winters and Town Peterson.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;br>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Taylor Winters&lt;/strong>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;img src="taylor.jpg" align="left" width="1000px"/>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Taylor recently graduated from the University of Kansas. During the last semesters of her studies she developed a project focused on understanding environmental conditions associated with levels of prevalence of tick pathogens in Kansas and Oklahoma. Other collaborators in this project include Ismari Martinez and Town Peterson.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;br>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Juan Francisco Villacis&lt;/strong>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;img src="jfrancisco.jpeg" align="left" width="1000px"/>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Juan Francisco is a student at Pontificia Universidad Católica del Ecuador (PUCE), working in Centro de Investigación para la Salud en América Latina (CISeAL). Together with Shubert (see below), Francisco is developing models to predict the potential geographic distribution of the Chagas disease vector &lt;em>R. ecuadoriensis&lt;/em>. The project also aims to se potential effects of climate change on this species range. Other collaborators in this project include Anita Villacis, Cesar Yumiseva, and Jocelyn Colella.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;br>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Shubert Aguayo&lt;/strong>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;img src="shubert.jpg" align="left" width="1000px"/>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Shubert is a student at Pontificia Universidad Católica del Ecuador (PUCE), working in Centro de Investigación para la Salud en América Latina (CISeAL). Together with Juan Francisco, he is developing models to predict the potential geographic distribution of the Chagas disease vector &lt;em>R. ecuadoriensis&lt;/em>. The project also aims to se potential effects of climate change on this species range. Other collaborators in this project include Anita Villacis, Cesar Yumiseva, and Jocelyn Colella.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;br></description></item><item><title>nichevol</title><link>https://marlonecobos..github.io/software/nichevol/</link><pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/software/nichevol/</guid><description>&lt;h2 id="what-is-nichevol">What is nichevol?&lt;/h2>
+&lt;p style="text-align: justify;">&lt;strong>nichevol&lt;/strong> is an R package that helps users to perform critical steps in the process of assessment of species’ ecological niche evolution, with uncertainty incorporated explicitly in reconstructions. The method proposed here for ancestral reconstruction of ecological niches characterizes niches using a bin-based approach that incorporates uncertainty in estimations. Compared to other existing methods, the approaches presented here reduce risks of overestimation of amounts or rates of ecological niche evolution. The main analyses include: initial exploration of environmental data in occurrence records and accessible areas, preparation of data for phylogenetic analyses, comparative phylogenetic analyses, and plotting for interpretation. These tools are based on the methods proposed by &lt;a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6359" target="_blank" rel="noopener">Owens et al. (2020)&lt;/a>.&lt;/p>
+&lt;img src="nichevol.png" align="center"/>
+&lt;h2 id="check-the-mop-package">Check the mop package&lt;/h2>
+&lt;p style="text-align: justify;">If you want to try this tool you can install it on R from CRAN using &lt;code>install.packages(&amp;quot;nichevol&amp;quot;)&lt;/code>. Examples of its use can be found &lt;a href="https://github.com/marlonecobos/nichevol#nichevol-tools-for-ecological-niche-evolution-assessment-consideringuncertainty" target="_blank" rel="noopener">here&lt;/a> and &lt;a href="https://github.com/marlonecobos/nichevol/wiki/User-Guide" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;br></description></item><item><title>mop</title><link>https://marlonecobos..github.io/software/mop/</link><pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/software/mop/</guid><description>&lt;h2 id="what-is-mop">What is mop?&lt;/h2>
+&lt;p style="text-align: justify;">&lt;strong>mop&lt;/strong> is an R package with a set of tools to perform the Mobility Oriented-Parity (MOP) metric, which helps to compare a set of conditions of reference versus another set of of interest. The main goals of the MOP metric are to explore conditions in the set of interest that are non-analogous to those in the reference set, and to quantify how different conditions in the set of interest are. The tools included here help to identify conditions outside the rages of the reference set with greater detail than in earlier implementations. These tools are based on the methods proposed by &lt;a href="https://www.sciencedirect.com/science/article/abs/pii/S0304380013002159?via%3Dihub" target="_blank" rel="noopener">Owens et al. (2013)&lt;/a>.&lt;/p>
+&lt;br>
+&lt;h2 id="check-the-mop-package">Check the mop package&lt;/h2>
+&lt;p style="text-align: justify;">If you want to try this tool you can install it on R from CRAN using &lt;code>install.packages(&amp;quot;mop&amp;quot;)&lt;/code>. An example of its use can be found &lt;a href="https://github.com/marlonecobos/mop#mop-mobility-oriented-parity-metric" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;br></description></item><item><title>More about me</title><link>https://marlonecobos..github.io/post/more_about_me/</link><pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/post/more_about_me/</guid><description>&lt;h2 id="who-am-i">Who am I?&lt;/h2>
+&lt;p style="text-align: justify;">I am an early career scientist originally from Ecuador, now settled in the United States. My roots trace back to Zamora Chinchipe, a small province in the southernmost part of the Amazon region, but the majority of my life story unfolded in Loja, a picturesque city nestled in the Andes to the south.&lt;/p>
+&lt;p style="text-align: justify;">My academic journey commenced at Universidad Nacional de Loja (Ecuador), followed by a detour to Universidad de La Habana (Cuba) for my master&amp;rsquo;s degree. The culmination of my educational pursuits was marked by obtaining my Ph.D. from the University of Kansas (USA). Currently, I am engaged in postdoctoral research at the University of Kansas, where I divide my time between the Department of Ecology and Evolutionary Biology and the Biodiversity Institute.&lt;/p>
+&lt;br>
+&lt;h2 id="family">Family&lt;/h2>
+&lt;p style="text-align: justify;">The cornerstone of my life undoubtedly rests upon my family&amp;rsquo;s unwavering love and support. Their presence has exerted an irreplaceable influence on every facet of my journey. My achievements owe much to their profound impact, and these words and milestones serve as a heartfelt expression of gratitude for the profound enrichment they have brought to my life.&lt;/p>
+&lt;br>
+&lt;h2 id="what-do-i-like">What do I like?&lt;/h2>
+&lt;h3 id="research">Research&lt;/h3>
+&lt;p style="text-align: justify;">Research occupies a central place in my life. While those close to me might jest that I am entirely consumed by my work, the truth is more nuanced. Indeed, my deep-seated passion for science might give the impression that I am wholly devoted to my job, but what truly fuels me is the exploration of the scientific realm. My passion lies in delving into the mysteries of science, unraveling fresh research problems, and pursuing their solutions.&lt;/p>
+&lt;p style="text-align: justify;">My research interests span a diverse array of topics, all converging within the fascinating field of distributional ecology. My quest revolves around understanding the determinants of species&amp;rsquo; geographic distributions. This curiosity leads me to engage in various research avenues. One of my primary interests involves crafting innovative methods and tools to construct models capable of characterizing ecological niches and predicting species distributions. Furthermore, I have a keen interest in assessing the broader context, such as predicting potential disease outbreaks and pandemics. The challenge of comprehending the factors that could precipitate an epidemic is akin to tackling an intricate puzzle, a pursuit that resonates deeply with my identity as a scientist.&lt;/p>
+&lt;h3 id="sports-and-friends">Sports and friends&lt;/h3>
+&lt;p style="text-align: justify;">In my earlier years, sports held a significant place in my life. I dedicated numerous years to basketball and even participated in various leagues in Ecuador. However, in recent times, my engagement with sports has shifted towards recreational enjoyment, especially when shared with friends. Although I still enjoy shooting hoops, my leisure time is primarily devoted to volleyball and ping pong.&lt;/p>
+&lt;h3 id="hobies">Hobies&lt;/h3>
+&lt;p style="text-align: justify;">Beyond my scientific endeavors, my leisure time is often occupied by my hobbies. Electronics and the art of tinkering hold a special appeal for me. There is an inexplicable satisfaction in assembling and fine-tuning intricate systems to perfection. Over the years, my interests in this domain have cultivated a fascination with tools, leading to the amassing of a comprehensive collection that some might consider excessive for my pursuits. Nevertheless, this toolset ensures that I am always well-prepared to tackle the next exciting project that comes my way.&lt;/p></description></item><item><title>rangemap</title><link>https://marlonecobos..github.io/software/rangemap/</link><pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/software/rangemap/</guid><description>&lt;h2 id="what-is-rangemap">What is rangemap?&lt;/h2>
+&lt;p style="text-align: justify;">&lt;strong>rangemap&lt;/strong> is an R package with various tools to create species range maps based on occurrence data, statistics, and SpatialPolygons objects. Other tools of this package can be used to analyze environmental characteristics of the species ranges and to create high quality figures of these maps. All the functions that create species ranges can also generate representations of species extents of occurrence (using convex hulls) and areas of occupancy according to the IUCN criteria. Spatial files of the resulting polygons can be saved in the working directory if it is needed. These tools were presented by &lt;a href="https://journals.ku.edu/jbi/article/view/16271" target="_blank" rel="noopener">Cobos et al. (2022)&lt;/a>.&lt;/p>
+&lt;br>
+&lt;h2 id="check-the-rangemap-package">Check the rangemap package&lt;/h2>
+&lt;p style="text-align: justify;">If you want to try this tool you can install it on R from GitHub using &lt;code>remotes::install_github(&amp;quot;marlonecobos/rangemap&amp;quot;)&lt;/code>. An example of its use can be found &lt;a href="https://github.com/marlonecobos/rangemap#rangemap-simple-tools-for-defining-species-ranges" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;br></description></item><item><title>Science Engagement</title><link>https://marlonecobos..github.io/mentoring/engagement/</link><pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/mentoring/engagement/</guid><description>&lt;p style="text-align: justify;">I firmly believe that bridging the gap between scientific research and the wider community is essential. Through my work and well thought communication strategies, I aim to ignite curiosity and foster a deeper appreciation for science among people of all ages. Whether it is sharing my research findings with a broader audience, participating in outreach programs, or mentoring aspiring young scientists, I see science engagement as a two-way street. It not only enriches the public&amp;rsquo;s understanding of the world but also enriches my own perspective, reminding me of the real-world impact and importance of research. In this exciting journey, I hope to inspire others to join me in the thrilling pursuit of knowledge and discovery.&lt;/p>
+&lt;br>
+&lt;h3 id="engagement-activities">Engagement activities&lt;/h3>
+&lt;p style="text-align: justify;">&lt;em>Outreach (Broader Impacts):&lt;/em> &lt;strong>Microbes on the move&lt;/strong>. &lt;em>Activities:&lt;/em> Review of Spanish translations of existing outreach materials; Spanish translations of social media posts; general outreach activities in places visited. &lt;em>Scope:&lt;/em> Three cities in the state of Kansas. Biodiversity Institute, &lt;em>University of Kansas&lt;/em>. Kansas, USA. July, 2022&lt;/p>
+&lt;p style="text-align: justify;">&lt;em>Environmental education program:&lt;/em> &lt;strong>Battery disposal awareness campaign&lt;/strong>. &lt;em>Activities:&lt;/em> Design of content and teaching materials for primary schools; Presentation of contents and educational activities in primary schools with the involvement of teachers and students. &lt;em>Scope:&lt;/em> Ten rural schools. &lt;em>El Guismi DAG&lt;/em>. Zamora Chinchipe, Ecuador. 2012-2013&lt;/p>
+&lt;p style="text-align: justify;">&lt;em>Environmental education program:&lt;/em> &lt;strong>Plastic bottle recycling campaign&lt;/strong>. &lt;em>Activities:&lt;/em> Design of content and teaching materials for primary schools; Presentation of contents and educational activities in primary schools with the involvement of authorities, teachers, and students. Design of mechanisms to collect, store, and recycle collected materials. &lt;em>Scope:&lt;/em> Ten rural schools. &lt;em>El Guismi DAG&lt;/em>. Zamora Chinchipe, Ecuador. 2012-2013&lt;/p></description></item><item><title>Biodiversity and Conservation</title><link>https://marlonecobos..github.io/project/niche-signal/</link><pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/project/niche-signal/</guid><description>&lt;p style="text-align: justify;">Exploring and analyzing biodiversity data is something that I have always wanted
+to do. I am part of a group of researchers in charge of the development of a few
+informatics tools aiming to help researchers to understand biodiversity patterns.&lt;/p>
+&lt;br>
+&lt;h3 id="biodiversity-inventory">Biodiversity inventory&lt;/h3>
+&lt;p>Have you ever wondered where to go to register biodiversity more efficiently?&lt;/p>
+&lt;p style="text-align: justify;">&lt;strong>&lt;a href="https://CRAN.R-project.org/package=biosurvey" target="_blank" rel="noopener">biosurvey&lt;/a>&lt;/strong> is an R package
+that implements multiple tools to select sampling sites for biodiversity
+inventory. The goal is to increase the effectiveness of such sites
+by considering the relationship between environmental and geographic conditions
+in a region of interest. Take a look at the &lt;a href="https://github.com/claununez/biosurvey/" target="_blank" rel="noopener">code&lt;/a>
+and &lt;a href="https://claununez.github.io/biosurvey/" target="_blank" rel="noopener">user guide&lt;/a> if you are interested.
+&lt;a href="https://marlonecobos..github.io/software/biosurvey/">Link to software&lt;/a>&lt;/p>
+&lt;br>
+&lt;h3 id="simple-ways-to-explore-species-ranges">Simple ways to explore species ranges&lt;/h3>
+&lt;p>If you want to perform quick and simple explorations of species distribution
+ranges based on occurrence data, this may interest you.&lt;/p>
+&lt;p style="text-align: justify;">&lt;strong>&lt;a href="https://CRAN.R-project.org/package=rangemap" target="_blank" rel="noopener">rangemap&lt;/a>&lt;/strong> is an R package
+with tools to create species range maps based on occurrence data, statistics,
+and Spatial objects. Other tools of this package can be used to analyze
+environmental characteristics of the species ranges and to create high quality
+figures of these maps. Take a look at the &lt;a href="https://github.com/marlonecobos/rangemap" target="_blank" rel="noopener">code&lt;/a>
+and &lt;a href="https://marlonecobos.github.io/rangemap/" target="_blank" rel="noopener">user guide&lt;/a> if you are interested.
+&lt;a href="https://marlonecobos..github.io/software/rangemap/">Link to software&lt;/a>&lt;/p>
+&lt;br>
+&lt;h3 id="to-do-list">To do list&lt;/h3></description></item><item><title>Duckweed thermal adaptation</title><link>https://marlonecobos..github.io/project/adaptation-niche/</link><pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/project/adaptation-niche/</guid><description>&lt;p style="text-align: justify;">Something.&lt;/p>
+&lt;br>
+&lt;p>List of things done here&lt;/p></description></item><item><title>Host-pathogen dynamics</title><link>https://marlonecobos..github.io/project/host-pathogen/</link><pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/project/host-pathogen/</guid><description>&lt;p style="text-align: justify;">Something.&lt;/p>
+&lt;br>
+&lt;p>List of things done here&lt;/p></description></item><item><title>Pathogen Vector Studies</title><link>https://marlonecobos..github.io/project/pathogen-vectors/</link><pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/project/pathogen-vectors/</guid><description>&lt;p style="text-align: justify;">Something.&lt;/p>
+&lt;br>
+&lt;p>List of things done here&lt;/p></description></item><item><title>Modeling and Simulations</title><link>https://marlonecobos..github.io/project/biodiversity-informatics/</link><pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/project/biodiversity-informatics/</guid><description>&lt;p style="text-align: justify;">I have been interested in informatics tools to deal with ecological modeling
+and simulations since I started my PhD. Bellow you can find a brief description
+of the tools I have developed with the help of an amazing group of colleagues.&lt;/p>
+&lt;br>
+&lt;h3 id="ecological-niche-modeling">Ecological niche modeling&lt;/h3>
+&lt;p style="text-align: justify;">The following is a list of tools that implement methods and techniques to
+perform a series of steps in order to characterize and project ecological niches
+of species. These characterizations allow us to
+hypothesize about the factors that drive species distributions, and where
+suitable conditions exist.
+&lt;a href="https://marlonecobos..github.io/software/">Link to software&lt;/a>&lt;/p>
+&lt;br>
+&lt;h3 id="dispersal-simulations">Dispersal simulations&lt;/h3>
+&lt;p style="text-align: justify;">The following is a list of tools that implement methods and techniques to
+perform a series of steps in order to characterize and project ecological niches
+of species. These characterizations allow us to
+hypothesize about the factors that drive species distributions, and where
+suitable conditions exist.
+&lt;a href="https://marlonecobos..github.io/software/grinnell/">Link to software&lt;/a>&lt;/p>
+&lt;br>
+&lt;h3 id="to-do-list">To do list&lt;/h3></description></item><item><title>A simulation-based method for identifying accessible areas as calibration areas for ecological niche models and species distribution models</title><link>https://marlonecobos..github.io/publication/10.21425-f5fbg48814/</link><pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/publication/10.21425-f5fbg48814/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p style="text-align: justify;">Ecological niche models and species distribution models (ENM and SDM, respectively) are tools that have seen massive use and considerable improvement during the last twenty years. The choice of calibration areas for such models has strong effects on model outcomes and model interpretation, as well as on model transfer to distinct environmental settings. However, approaches to selecting these areas remain simple and/or unlinked to biological concepts. Such models should be calibrated within areas that the species of interest has explored throughout its recent history, the accessible area (&lt;strong>M&lt;/strong>). In this paper, we provide a simulation approach for estimating a species’ &lt;strong>M&lt;/strong> considering processes of dispersal, colonization, and extinction in constant current climate or glacial-interglacial climate change frameworks, implemented within a new R package we developed called grinnell. Using the avian genus Aphelocoma, we explored different parameterizations of our simulation, and compared them to current approaches for &lt;strong>M&lt;/strong> selection, in terms of model performance and risk of extrapolation using the algorithm Maxent and mobility-oriented parity analyses. Model calibration exercises from all approaches resulted in at least one model meeting optimal performance criteria for each species; however, we noted high variability among taxa and &lt;strong>M&lt;/strong> selection methods. More importantly, &lt;strong>M&lt;/strong> hypotheses derived directly from simulations of key biological processes, rather than being based on simple proxies of those processes, and as such are better suited to erecting biologically appropriate contrasts in model calibration, and to characterizing the potential for model extrapolation more rigorously. Major factors in our simulations were environmental layer resolution, dispersal kernel characteristics, and the inclusion of a changing framework of climatic conditions. This contribution represents the first simulation-based method for selecting calibration areas for ENM and SDM, offering a quantitative approach to estimate the accessible area of a species while considering its dispersal ability, along with patterns of change in environmental suitability across space and time.&lt;/p>
+&lt;br></description></item><item><title>Recognizing sources of uncertainty in disease vector ecological niche models: An example with the tick Rhipicephalus sanguineus sensu lato</title><link>https://marlonecobos..github.io/publication/10.1016-j.pecon.2020.03.002/</link><pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/publication/10.1016-j.pecon.2020.03.002/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p style="text-align: justify;">Epidemiology is one of many fields that use ecological niche modeling to assess potential distributions or potential range expansions of species. When such models are transferred in space and time, it is important to understand sources and location of uncertainty in their predictions. Here, we used the tick species Rhipicephalus sanguineus sensu lato (distributed in different areas around the world) as an example; for the first time, we characterized its global geographic distribution using ecological niche modeling, and explore the uncertainty involved in transferring models in space and time. We assessed uncertainties based on risks of strict extrapolation and amounts and patterns of variation in our predictions. We integrated occurrence records and climate data to calibrate models for 5 world regions, and to project them to 11 general circulation models (GCMs) and two representative concentration pathway emissions scenarios (RCPs) for 2050. Models created in different calibration areas showed high agreement of suitable areas among model predictions from the eastern United States, southern Mexico, South America, Europe, North Africa, sub-Saharan countries, Asia, and Australia. The global potential distributions of R. sanguineus sensulato were very similar between the two RCPs, but GCMs, model replicates, and model parametrizations contributed importantly to the overall variation detected. Patterns of uncertainty (strict extrapolation areas and variation) in our model predictions depended on the calibration area, and underlined the important implications of not considering variability and extrapolation risk in interpretations of ecological niche model projections.&lt;/p>
+&lt;br></description></item><item><title>kuenm: An R package for detailed development of ecological niche models using Maxent</title><link>https://marlonecobos..github.io/publication/10.7717-peerj.6281/</link><pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/publication/10.7717-peerj.6281/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p style="text-align: justify;">Background Ecological niche modeling is a set of analytical tools with applications in diverse disciplines, yet creating these models rigorously is now a challenging task. The calibration phase of these models is critical, but despite recent attempts at providing tools for performing this step, adequate detail is still missing. Here, we present the kuenm R package, a new set of tools for performing detailed development of ecological niche models using the platform Maxent in a reproducible way. Results This package takes advantage of the versatility of R and Maxent to enable detailed model calibration and selection, final model creation and evaluation, and extrapolation risk analysis. Best parameters for modeling are selected considering (1) statistical significance, (2) predictive power, and (3) model complexity. For final models, we enable multiple parameter sets and model transfers, making processing simpler. Users can also evaluate extrapolation risk in model transfers via mobility-oriented parity (MOP) metric. Discussion Use of this package allows robust processes of model calibration, facilitating creation of final models based on model significance, performance, and simplicity. Model transfers to multiple scenarios, also facilitated in this package, significantly reduce time invested in performing these tasks. Finally, efficient assessments of strict-extrapolation risks in model transfers via the MOP and MESS metrics help to prevent overinterpretation in model outcomes.&lt;/p>
+&lt;br></description></item><item><title>Slides</title><link>https://marlonecobos..github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Efficiently write slides in Markdown&lt;/li>
+&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
+&lt;li>Supports speaker notes&lt;/li>
+&lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="controls">Controls&lt;/h2>
+&lt;ul>
+&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
+&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
+&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
+&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
+&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
+&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
+&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
+&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://revealjs.com/pdf-export/" target="_blank" rel="noopener">PDF Export&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
+&lt;p>Code block:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="n">porridge&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="n">porridge&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Eating...&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="math">Math&lt;/h2>
+&lt;p>In-line math: $x + y = z$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p>
+&lt;hr>
+&lt;h2 id="fragments">Fragments&lt;/h2>
+&lt;p>Make content appear incrementally&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">{{% fragment %}} One {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% fragment %}} Three {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
+&lt;span class="fragment " >
+One
+&lt;/span>
+&lt;span class="fragment " >
+&lt;strong>Two&lt;/strong>
+&lt;/span>
+&lt;span class="fragment " >
+Three
+&lt;/span>
+&lt;hr>
+&lt;p>A fragment can accept two optional parameters:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
+&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
+&lt;p>Add speaker notes to your presentation&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{% speaker_note %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Only the speaker can read these notes
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Press &lt;span class="sb">`S`&lt;/span> key to view
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> {{% /speaker_note %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Only the speaker can read these notes&lt;/li>
+&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;ul>
+&lt;li>black: Black background, white text, blue links (default)&lt;/li>
+&lt;li>white: White background, black text, blue links&lt;/li>
+&lt;li>league: Gray background, white text, blue links&lt;/li>
+&lt;li>beige: Beige background, dark text, brown links&lt;/li>
+&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>night: Black background, thick white text, orange links&lt;/li>
+&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
+&lt;li>simple: White background, black text, blue links&lt;/li>
+&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="/media/boards.jpg"
+>
+&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
+&lt;p>Customize the slide style and background&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-image&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;/media/boards.jpg&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-color&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;#0000FF&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;my-style&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
+&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
+&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-css" data-lang="css">&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h1&lt;/span>&lt;span class="o">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h2&lt;/span>&lt;span class="o">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h3&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">color&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="kc">navy&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h1 id="questions">Questions?&lt;/h1>
+&lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Major challenges for correlational ecological niche model projections to future climate conditions</title><link>https://marlonecobos..github.io/publication/10.1111-nyas.13873/</link><pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/publication/10.1111-nyas.13873/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p style="text-align: justify;">Species-level forecasts of distributional potential and likely distributional shifts, in the face of changing climates, have become popular in the literature in the past 20 years. Many refinements have been made to the methodology over the years, and the result has been an approach that considers multiple sources of variation in geographic predictions, and how that variation translates into both specific predictions and uncertainty in those predictions. Although numerous previous reviews and overviews of this field have pointed out a series of assumptions and caveats associated with the methodology, three aspects of the methodology have important impacts but have not been treated previously in detail. Here, we assess those three aspects: (1) effects of niche truncation on model transfers to future climate conditions, (2) effects of model selection procedures on future-climate transfers of ecological niche models, and (3) relative contributions of several factors (replicate samples of point data, general circulation models, representative concentration pathways, and alternative model parameterizations) to overall variance in model outcomes. Overall, the view is one of caution: although resulting predictions are fascinating and attractive, this paradigm has pitfalls that may bias and limit confidence in niche model outputs as regards the implications of climate change for species’ geographic distributions.&lt;/p>
+&lt;br></description></item><item><title>Open access solutions for biodiversity journals: Do not replace one problem with another</title><link>https://marlonecobos..github.io/publication/10.1002-aqc.2967/</link><pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/publication/10.1002-aqc.2967/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;ol style="text-align: justify;">
+&lt;li>Global change processes (including climate change, sea‐level rise, and land‐use change, among others) represent significant threats to biodiversity. These changes are usually studied across broad areas, and understanding their effects on narrowly distributed endangered species is challenging. &lt;em>Peltophryne florentinoi&lt;/em> is a critically endangered Cuban toad, restricted to two coastal localities and potentially threatened by these phenomena. Despite its endangered status, few analyses have focused on threats to its survival in the face of global change.&lt;/li>
+&lt;li>Current and future threats from global change to this species were evaluated using ecological niche modelling and multiscale geographic information system (GIS) approaches. Climate change effects were assessed by comparing the species niche with six future (2050) climate scenarios across its distribution area. Risks from sealevel rise were evaluated by simulating potential coastal inundation under three scenarios of sea‐level rise. Recent land‐use changes were quantified using information on the loss of forest cover between 2000 and 2015.&lt;/li>
+&lt;li>Within the species distribution area, warmer and drier conditions can be expected in the future. Sea‐level rise will not have direct impacts on the species range; however, occasional inundations and saltwater intrusion may present additional stressors. Although only ~2% of the forest cover has been lost in the species range and its surroundings during 2000–2015, deforestation trends were variable during this period, and future losses in forest cover can be expected.&lt;/li>
+&lt;li>Considering these threats, and that the colonization of new areas seems unlikely, indirect and additive adverse effects on the species can be anticipated. These impacts will most probably be observed during the larval stage of this toad; hence, breeding sites constitute a key element in the conservation of this species. Longterm studies and experimental manipulations may be the next steps towards a better understanding of the responses of P. florentinoi to expected changes. Initial conservation actions are proposed based on these results and the ecology of this species.&lt;/li>
+&lt;/ol>
+&lt;br></description></item><item><title/><link>https://marlonecobos..github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/admin/config.yml</guid><description/></item></channel></rss>
