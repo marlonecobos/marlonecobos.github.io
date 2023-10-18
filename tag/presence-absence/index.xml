@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>presence-absence | Marlon E. Cobos</title><link>https://marlonecobos..github.io/tag/presence-absence/</link><atom:link href="https://marlonecobos..github.io/tag/presence-absence/index.xml" rel="self" type="application/rss+xml"/><description>presence-absence</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><image><url>https://marlonecobos..github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>presence-absence</title><link>https://marlonecobos..github.io/tag/presence-absence/</link></image><item><title>enmpa</title><link>https://marlonecobos..github.io/software/enmpa/</link><pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/software/enmpa/</guid><description>&lt;h2 id="what-is-enmpa">What is enmpa?&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>presence-absence | Marlon E. Cobos</title><link>https://marlonecobos.github.io/tag/presence-absence/</link><atom:link href="https://marlonecobos.github.io/tag/presence-absence/index.xml" rel="self" type="application/rss+xml"/><description>presence-absence</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><image><url>https://marlonecobos.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>presence-absence</title><link>https://marlonecobos.github.io/tag/presence-absence/</link></image><item><title>enmpa</title><link>https://marlonecobos.github.io/software/enmpa/</link><pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos.github.io/software/enmpa/</guid><description>&lt;h2 id="what-is-enmpa">What is enmpa?&lt;/h2>
 &lt;p style="text-align: justify;">&lt;strong>enmpa&lt;/strong> comprises a set of tools to perform Ecological Niche Modeling using presence-absence data and logistic generalized linear models. Some of the main functions help perform data partitioning, model calibration, model selection, variable response exploration, and model projection.&lt;/p>
 &lt;br>
 &lt;h2 id="check-the-enmpa-package">Check the enmpa package&lt;/h2>
 &lt;p style="text-align: justify;">If you want to try this tool you can install it on R from GitHub using &lt;code>remotes::install_github(&amp;quot;Luisagi/enmpa&amp;quot;)&lt;/code>. An example of its use can be found &lt;a href="https://github.com/Luisagi/enmpa#enmpa-ecological-niche-modeling-for-presence-absence-data" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
-&lt;br></description></item><item><title>Biodiversity and Conservation</title><link>https://marlonecobos..github.io/project/niche-signal/</link><pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/project/niche-signal/</guid><description>&lt;p style="text-align: justify;">Exploring and analyzing biodiversity data is something that I have always wanted
+&lt;br></description></item><item><title>Biodiversity and Conservation</title><link>https://marlonecobos.github.io/project/niche-signal/</link><pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos.github.io/project/niche-signal/</guid><description>&lt;p style="text-align: justify;">Exploring and analyzing biodiversity data is something that I have always wanted
 to do. I am part of a group of researchers in charge of the development of a few
 informatics tools aiming to help researchers to understand biodiversity patterns.&lt;/p>
 &lt;br>
@@ -15,7 +15,7 @@ inventory. The goal is to increase the effectiveness of such sites
 by considering the relationship between environmental and geographic conditions
 in a region of interest. Take a look at the &lt;a href="https://github.com/claununez/biosurvey/" target="_blank" rel="noopener">code&lt;/a>
 and &lt;a href="https://claununez.github.io/biosurvey/" target="_blank" rel="noopener">user guide&lt;/a> if you are interested.
-&lt;a href="https://marlonecobos..github.io/software/biosurvey/">Link to software&lt;/a>&lt;/p>
+&lt;a href="https://marlonecobos.github.io/software/biosurvey/">Link to software&lt;/a>&lt;/p>
 &lt;br>
 &lt;h3 id="simple-ways-to-explore-species-ranges">Simple ways to explore species ranges&lt;/h3>
 &lt;p>If you want to perform quick and simple explorations of species distribution
@@ -26,6 +26,6 @@ and Spatial objects. Other tools of this package can be used to analyze
 environmental characteristics of the species ranges and to create high quality
 figures of these maps. Take a look at the &lt;a href="https://github.com/marlonecobos/rangemap" target="_blank" rel="noopener">code&lt;/a>
 and &lt;a href="https://marlonecobos.github.io/rangemap/" target="_blank" rel="noopener">user guide&lt;/a> if you are interested.
-&lt;a href="https://marlonecobos..github.io/software/rangemap/">Link to software&lt;/a>&lt;/p>
+&lt;a href="https://marlonecobos.github.io/software/rangemap/">Link to software&lt;/a>&lt;/p>
 &lt;br>
 &lt;h3 id="to-do-list">To do list&lt;/h3></description></item></channel></rss>

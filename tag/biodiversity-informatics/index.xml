@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biodiversity informatics | Marlon E. Cobos</title><link>https://marlonecobos..github.io/tag/biodiversity-informatics/</link><atom:link href="https://marlonecobos..github.io/tag/biodiversity-informatics/index.xml" rel="self" type="application/rss+xml"/><description>Biodiversity informatics</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Apr 2023 00:00:00 +0000</lastBuildDate><image><url>https://marlonecobos..github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Biodiversity informatics</title><link>https://marlonecobos..github.io/tag/biodiversity-informatics/</link></image><item><title>Biodiversity and Conservation</title><link>https://marlonecobos..github.io/project/niche-signal/</link><pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/project/niche-signal/</guid><description>&lt;p style="text-align: justify;">Exploring and analyzing biodiversity data is something that I have always wanted
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biodiversity informatics | Marlon E. Cobos</title><link>https://marlonecobos.github.io/tag/biodiversity-informatics/</link><atom:link href="https://marlonecobos.github.io/tag/biodiversity-informatics/index.xml" rel="self" type="application/rss+xml"/><description>Biodiversity informatics</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Apr 2023 00:00:00 +0000</lastBuildDate><image><url>https://marlonecobos.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Biodiversity informatics</title><link>https://marlonecobos.github.io/tag/biodiversity-informatics/</link></image><item><title>Biodiversity and Conservation</title><link>https://marlonecobos.github.io/project/niche-signal/</link><pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos.github.io/project/niche-signal/</guid><description>&lt;p style="text-align: justify;">Exploring and analyzing biodiversity data is something that I have always wanted
 to do. I am part of a group of researchers in charge of the development of a few
 informatics tools aiming to help researchers to understand biodiversity patterns.&lt;/p>
 &lt;br>
@@ -10,7 +10,7 @@ inventory. The goal is to increase the effectiveness of such sites
 by considering the relationship between environmental and geographic conditions
 in a region of interest. Take a look at the &lt;a href="https://github.com/claununez/biosurvey/" target="_blank" rel="noopener">code&lt;/a>
 and &lt;a href="https://claununez.github.io/biosurvey/" target="_blank" rel="noopener">user guide&lt;/a> if you are interested.
-&lt;a href="https://marlonecobos..github.io/software/biosurvey/">Link to software&lt;/a>&lt;/p>
+&lt;a href="https://marlonecobos.github.io/software/biosurvey/">Link to software&lt;/a>&lt;/p>
 &lt;br>
 &lt;h3 id="simple-ways-to-explore-species-ranges">Simple ways to explore species ranges&lt;/h3>
 &lt;p>If you want to perform quick and simple explorations of species distribution
@@ -21,9 +21,9 @@ and Spatial objects. Other tools of this package can be used to analyze
 environmental characteristics of the species ranges and to create high quality
 figures of these maps. Take a look at the &lt;a href="https://github.com/marlonecobos/rangemap" target="_blank" rel="noopener">code&lt;/a>
 and &lt;a href="https://marlonecobos.github.io/rangemap/" target="_blank" rel="noopener">user guide&lt;/a> if you are interested.
-&lt;a href="https://marlonecobos..github.io/software/rangemap/">Link to software&lt;/a>&lt;/p>
+&lt;a href="https://marlonecobos.github.io/software/rangemap/">Link to software&lt;/a>&lt;/p>
 &lt;br>
-&lt;h3 id="to-do-list">To do list&lt;/h3></description></item><item><title>Modeling and Simulations</title><link>https://marlonecobos..github.io/project/biodiversity-informatics/</link><pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos..github.io/project/biodiversity-informatics/</guid><description>&lt;p style="text-align: justify;">I have been interested in informatics tools to deal with ecological modeling
+&lt;h3 id="to-do-list">To do list&lt;/h3></description></item><item><title>Modeling and Simulations</title><link>https://marlonecobos.github.io/project/biodiversity-informatics/</link><pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate><guid>https://marlonecobos.github.io/project/biodiversity-informatics/</guid><description>&lt;p style="text-align: justify;">I have been interested in informatics tools to deal with ecological modeling
 and simulations since I started my PhD. Bellow you can find a brief description
 of the tools I have developed with the help of an amazing group of colleagues.&lt;/p>
 &lt;br>
@@ -33,7 +33,7 @@ perform a series of steps in order to characterize and project ecological niches
 of species. These characterizations allow us to
 hypothesize about the factors that drive species distributions, and where
 suitable conditions exist.
-&lt;a href="https://marlonecobos..github.io/software/">Link to software&lt;/a>&lt;/p>
+&lt;a href="https://marlonecobos.github.io/software/">Link to software&lt;/a>&lt;/p>
 &lt;br>
 &lt;h3 id="dispersal-simulations">Dispersal simulations&lt;/h3>
 &lt;p style="text-align: justify;">The following is a list of tools that implement methods and techniques to
@@ -41,6 +41,6 @@ perform a series of steps in order to characterize and project ecological niches
 of species. These characterizations allow us to
 hypothesize about the factors that drive species distributions, and where
 suitable conditions exist.
-&lt;a href="https://marlonecobos..github.io/software/grinnell/">Link to software&lt;/a>&lt;/p>
+&lt;a href="https://marlonecobos.github.io/software/grinnell/">Link to software&lt;/a>&lt;/p>
 &lt;br>
 &lt;h3 id="to-do-list">To do list&lt;/h3></description></item></channel></rss>
