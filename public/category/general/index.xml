@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General | Marlon E. Cobos</title>
+    <link>https://example.com/category/general/</link>
+      <atom:link href="https://example.com/category/general/index.xml" rel="self" type="application/rss+xml" />
+    <description>General</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>General</title>
+      <link>https://example.com/category/general/</link>
+    </image>
+    
+    <item>
+      <title>Mobility Oriented-Parity Metric</title>
+      <link>https://example.com/software/mop/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/software/mop/</guid>
+      <description>&lt;h2 id=&#34;what-is-mop&#34;&gt;What is mop?&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;mop&lt;/strong&gt; is an R package contains a set of tools to perform the Mobility Oriented-Parity (MOP) metric, which helps to compare a set of conditions of reference versus another set of of interest. The main goals of the MOP metric are to explore conditions in the set of interest that are non-analogous to those in the reference set, and to quantify how different conditions in the set of interest are. The tools included here help to identify conditions outside the rages of the reference set with greater detail than in earlier implementations. These tools are based on the methods proposed by Owens et al. (2013).&lt;/p&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;check-the-mop-package&#34;&gt;Check the mop package&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;If you want to try this tool you can install it on R from CRAN using &lt;code&gt;install.packages(&amp;quot;mop&amp;quot;)&lt;/code&gt;. An example of its use can be found &lt;a href=&#34;https://github.com/marlonecobos/mop#mop-mobility-oriented-parity-metric&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>More about me</title>
+      <link>https://example.com/post/more_about_me/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/more_about_me/</guid>
+      <description>&lt;h2 id=&#34;who-am-i&#34;&gt;Who am I?&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;I&amp;rsquo;m an early career scientist originally from Ecuador who&amp;rsquo;s now settled down in the US. My roots trace back to Zamora Chinchipe, a small province in the southernmost part of the Amazon region. But, most of my life story unfolded in Loja, a charming city nestled in the Andes down south.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;I kicked off my academic journey at Universidad Nacional de Loja (Ecuador), and then took a detour to Universidad de La Habana (Cuba) for my master&amp;rsquo;s degree. The grand finale was my Ph.D. from the University of Kansas (USA). These days, I&amp;rsquo;m diving into postdoctoral research at the University of Kansas, splitting my time between the Department of Ecology and Evolutionary Biology and the Biodiversity Institute.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;family&#34;&gt;Family&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;My family undoubtedly holds the cornerstone of my life. Every facet of my journey has been shaped by their unwavering love and support. Their presence is an irreplaceable force, and I credit much of my achievements to their influence. These few words and the milestones I&amp;rsquo;ve achieved stand as my heartfelt gratitude, a humble attempt to convey my appreciation for all the ways they&amp;rsquo;ve enriched my life.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;what-do-i-like&#34;&gt;What do I like?&lt;/h2&gt;
+&lt;h3 id=&#34;research&#34;&gt;Research&lt;/h3&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;If you were to ask my inner circle, they&amp;rsquo;d probably tease me by claiming I&amp;rsquo;m all about work, but don&amp;rsquo;t believe it for a second (seriously!). The truth is, they&amp;rsquo;re onto something in their own way. I&amp;rsquo;ve got this deep-seated love for science, and because I&amp;rsquo;m knee-deep in the scientific world, it might seem like I&amp;rsquo;m head over heels for my job. What really fuels me, though, is diving into the realm of science, uncovering fresh research puzzles, and chasing down their solutions.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Speaking of my jam, my research interests are a mixed bag, all circling around the cool field of distributional ecology. Essentially, I&amp;rsquo;m on a quest to figure out why things set up camp where they do. This burning curiosity has me juggling various research avenues. One of my top picks? Crafting nifty methods and tools to create models that can characterize niches and predict distributions. Oh, and let&amp;rsquo;s not forget, I&amp;rsquo;ve got this thing for contemplating the big picture. Yep, I&amp;rsquo;m talking about predicting potential disease outbreaks and pandemics. Wrapping my head around the factors that could trigger an epidemic is like tackling a huge puzzle, but hey, that&amp;rsquo;s what us scientists live for, right? 🤓🔬&lt;/p&gt;
+&lt;h3 id=&#34;sports-and-friends&#34;&gt;Sports and friends&lt;/h3&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;In my younger days, I was pretty into sports. I devoted quite a few years to basketball and even got into playing in different leagues back in Ecuador. These days, I&amp;rsquo;m more about enjoying sports for the fun of it, especially when it means quality time with friends. While I still shoot some hoops, my free time is mostly taken up by volleyball and ping pong.&lt;/p&gt;
+&lt;h3 id=&#34;hobies&#34;&gt;Hobies&lt;/h3&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;When I&amp;rsquo;m not diving into the world of science, you&amp;rsquo;ll often find me immersed in my hobbies. Electronics and tinkering with stuff are my jam. There&amp;rsquo;s something oddly satisfying about piecing things together and making them work like a charm. Over the years, these interests have turned me into a bit of a tool aficionado, my collection might just be bordering on excessive for what I do, but hey, who&amp;rsquo;s counting? After all, having an array of tools just means I&amp;rsquo;m always prepared to tackle the next exciting project that comes my way.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

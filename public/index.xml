@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>null | Marlon E. Cobos</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>null</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>null</title>
+      <link>https://example.com/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://example.com/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobility Oriented-Parity Metric</title>
+      <link>https://example.com/software/mop/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/software/mop/</guid>
+      <description>&lt;h2 id=&#34;what-is-mop&#34;&gt;What is mop?&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;mop&lt;/strong&gt; is an R package contains a set of tools to perform the Mobility Oriented-Parity (MOP) metric, which helps to compare a set of conditions of reference versus another set of of interest. The main goals of the MOP metric are to explore conditions in the set of interest that are non-analogous to those in the reference set, and to quantify how different conditions in the set of interest are. The tools included here help to identify conditions outside the rages of the reference set with greater detail than in earlier implementations. These tools are based on the methods proposed by Owens et al. (2013).&lt;/p&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;check-the-mop-package&#34;&gt;Check the mop package&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;If you want to try this tool you can install it on R from CRAN using &lt;code&gt;install.packages(&amp;quot;mop&amp;quot;)&lt;/code&gt;. An example of its use can be found &lt;a href=&#34;https://github.com/marlonecobos/mop#mop-mobility-oriented-parity-metric&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>More about me</title>
+      <link>https://example.com/post/more_about_me/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/more_about_me/</guid>
+      <description>&lt;h2 id=&#34;who-am-i&#34;&gt;Who am I?&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;I&amp;rsquo;m an early career scientist originally from Ecuador who&amp;rsquo;s now settled down in the US. My roots trace back to Zamora Chinchipe, a small province in the southernmost part of the Amazon region. But, most of my life story unfolded in Loja, a charming city nestled in the Andes down south.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;I kicked off my academic journey at Universidad Nacional de Loja (Ecuador), and then took a detour to Universidad de La Habana (Cuba) for my master&amp;rsquo;s degree. The grand finale was my Ph.D. from the University of Kansas (USA). These days, I&amp;rsquo;m diving into postdoctoral research at the University of Kansas, splitting my time between the Department of Ecology and Evolutionary Biology and the Biodiversity Institute.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;family&#34;&gt;Family&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;My family undoubtedly holds the cornerstone of my life. Every facet of my journey has been shaped by their unwavering love and support. Their presence is an irreplaceable force, and I credit much of my achievements to their influence. These few words and the milestones I&amp;rsquo;ve achieved stand as my heartfelt gratitude, a humble attempt to convey my appreciation for all the ways they&amp;rsquo;ve enriched my life.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;what-do-i-like&#34;&gt;What do I like?&lt;/h2&gt;
+&lt;h3 id=&#34;research&#34;&gt;Research&lt;/h3&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;If you were to ask my inner circle, they&amp;rsquo;d probably tease me by claiming I&amp;rsquo;m all about work, but don&amp;rsquo;t believe it for a second (seriously!). The truth is, they&amp;rsquo;re onto something in their own way. I&amp;rsquo;ve got this deep-seated love for science, and because I&amp;rsquo;m knee-deep in the scientific world, it might seem like I&amp;rsquo;m head over heels for my job. What really fuels me, though, is diving into the realm of science, uncovering fresh research puzzles, and chasing down their solutions.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Speaking of my jam, my research interests are a mixed bag, all circling around the cool field of distributional ecology. Essentially, I&amp;rsquo;m on a quest to figure out why things set up camp where they do. This burning curiosity has me juggling various research avenues. One of my top picks? Crafting nifty methods and tools to create models that can characterize niches and predict distributions. Oh, and let&amp;rsquo;s not forget, I&amp;rsquo;ve got this thing for contemplating the big picture. Yep, I&amp;rsquo;m talking about predicting potential disease outbreaks and pandemics. Wrapping my head around the factors that could trigger an epidemic is like tackling a huge puzzle, but hey, that&amp;rsquo;s what us scientists live for, right? 🤓🔬&lt;/p&gt;
+&lt;h3 id=&#34;sports-and-friends&#34;&gt;Sports and friends&lt;/h3&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;In my younger days, I was pretty into sports. I devoted quite a few years to basketball and even got into playing in different leagues back in Ecuador. These days, I&amp;rsquo;m more about enjoying sports for the fun of it, especially when it means quality time with friends. While I still shoot some hoops, my free time is mostly taken up by volleyball and ping pong.&lt;/p&gt;
+&lt;h3 id=&#34;hobies&#34;&gt;Hobies&lt;/h3&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;When I&amp;rsquo;m not diving into the world of science, you&amp;rsquo;ll often find me immersed in my hobbies. Electronics and tinkering with stuff are my jam. There&amp;rsquo;s something oddly satisfying about piecing things together and making them work like a charm. Over the years, these interests have turned me into a bit of a tool aficionado, my collection might just be bordering on excessive for what I do, but hey, who&amp;rsquo;s counting? After all, having an array of tools just means I&amp;rsquo;m always prepared to tackle the next exciting project that comes my way.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ecological Niche Signal</title>
+      <link>https://example.com/project/niche-signal/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/niche-signal/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;Something.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;List of things done here&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Host-pathogen dynamics</title>
+      <link>https://example.com/project/host-pathogen/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/host-pathogen/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;Something.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;List of things done here&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pathogen Vector Studies</title>
+      <link>https://example.com/project/pathogen-vectors/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/pathogen-vectors/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;Something.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;List of things done here&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biodiversity Informatics</title>
+      <link>https://example.com/project/biodiversity-informatics/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/biodiversity-informatics/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;I have been interested in informatics tools to deal with biodiversity data and
+ecological modeling since I started my PhD. Bellow you can find a list of the
+tools I have developed with the help of an amazing group of friends interested
+in the same topics.&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;biodiversity-inventory&#34;&gt;Biodiversity inventory&lt;/h3&gt;
+&lt;p&gt;Have you ever wondered where to go to register biodiversity more efficiently?&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://CRAN.R-project.org/package=biosurvey&#34; target=&#34;_blank&#34;&gt;biosurvey&lt;/a&gt;&lt;/strong&gt;
+is an R package that implements multiple tools to select sampling sites for
+biodiversity inventory. The goal is to increase the effectiveness of such sites
+by considering the relationship between environmental and geographic conditions
+in a region of interest. Take a look at the
+&lt;a href=&#34;https://github.com/claununez/biosurvey/&#34; target=&#34;_blank&#34;&gt;code&lt;/a&gt; and
+a &lt;a href=&#34;https://claununez.github.io/biosurvey/&#34; target=&#34;_blank&#34;&gt;guide&lt;/a&gt; if
+you are interested.&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;ecological-niche-modeling&#34;&gt;Ecological niche modeling&lt;/h3&gt;
+&lt;p&gt;The following is a list of tools that implement methods and techniques to
+perform a series of steps in order to characterize and project ecological niches
+of species. These characterizations allow us to
+hypothesize about the factors that drive species distributions, and where
+suitable conditions exist.&lt;/p&gt;
+&lt;br&gt;
+&lt;h4 id=&#34;ellipsenm&#34;&gt;ellipsenm&lt;/h4&gt;
+&lt;br&gt;
+&lt;h4 id=&#34;grinnell&#34;&gt;grinnell&lt;/h4&gt;
+&lt;br&gt;
+&lt;h4 id=&#34;kuenm&#34;&gt;kuenm&lt;/h4&gt;
+&lt;br&gt;
+&lt;h4 id=&#34;nichevol&#34;&gt;nichevol&lt;/h4&gt;
+&lt;br&gt;
+&lt;h4 id=&#34;rangemap&#34;&gt;rangemap&lt;/h4&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://example.com/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sample data and training modules for cleaning biodiversity information</title>
+      <link>https://example.com/publication/10.17161-bi.v13i0.7600/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/10.17161-bi.v13i0.7600/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Large-scale biodiversity databases have become crucial information sources in many analyses in biogeography, macroecology, and conservation biology, often involving development of empirical models of species’ ecological niches and predictions of their geographic distributions. These analyses, however, can be impaired by the presence of errors, particularly as regards taxonomic identifications and accurate geographic coordinates. Here, we present a detailed data-cleaning exercise based on two contrasting datasets; we link these example data with a step-by-step guide to overcoming these problems and improving data quality for analyses based on these data.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Major challenges for correlational ecological niche model projections to future climate conditions</title>
+      <link>https://example.com/publication/10.1111-nyas.13873/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/10.1111-nyas.13873/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Species-level forecasts of distributional potential and likely distributional shifts, in the face of changing climates, have become popular in the literature in the past 20 years. Many refinements have been made to the methodology over the years, and the result has been an approach that considers multiple sources of variation in geographic predictions, and how that variation translates into both specific predictions and uncertainty in those predictions. Although numerous previous reviews and overviews of this field have pointed out a series of assumptions and caveats associated with the methodology, three aspects of the methodology have important impacts but have not been treated previously in detail. Here, we assess those three aspects: (1) effects of niche truncation on model transfers to future climate conditions, (2) effects of model selection procedures on future-climate transfers of ecological niche models, and (3) relative contributions of several factors (replicate samples of point data, general circulation models, representative concentration pathways, and alternative model parameterizations) to overall variance in model outcomes. Overall, the view is one of caution: although resulting predictions are fascinating and attractive, this paradigm has pitfalls that may bias and limit confidence in niche model outputs as regards the implications of climate change for species’ geographic distributions.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breeding sites of a narrowly distributed amphibian, a key element in its conservation in the face of global change</title>
+      <link>https://example.com/publication/10.1002-aqc.2967/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/10.1002-aqc.2967/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;ol style=&#34;text-align: justify;&#34;&gt;
+&lt;li&gt;Global change processes (including climate change, sea‐level rise, and land‐use change, among others) represent significant threats to biodiversity. These changes are usually studied across broad areas, and understanding their effects on narrowly distributed endangered species is challenging. &lt;em&gt;Peltophryne florentinoi&lt;/em&gt; is a critically endangered Cuban toad, restricted to two coastal localities and potentially threatened by these phenomena. Despite its endangered status, few analyses have focused on threats to its survival in the face of global change.&lt;/li&gt;
+&lt;li&gt;Current and future threats from global change to this species were evaluated using ecological niche modelling and multiscale geographic information system (GIS) approaches. Climate change effects were assessed by comparing the species niche with six future (2050) climate scenarios across its distribution area. Risks from sealevel rise were evaluated by simulating potential coastal inundation under three scenarios of sea‐level rise. Recent land‐use changes were quantified using information on the loss of forest cover between 2000 and 2015.&lt;/li&gt;
+&lt;li&gt;Within the species distribution area, warmer and drier conditions can be expected in the future. Sea‐level rise will not have direct impacts on the species range; however, occasional inundations and saltwater intrusion may present additional stressors. Although only ~2% of the forest cover has been lost in the species range and its surroundings during 2000–2015, deforestation trends were variable during this period, and future losses in forest cover can be expected.&lt;/li&gt;
+&lt;li&gt;Considering these threats, and that the colonization of new areas seems unlikely, indirect and additive adverse effects on the species can be anticipated. These impacts will most probably be observed during the larval stage of this toad; hence, breeding sites constitute a key element in the conservation of this species. Longterm studies and experimental manipulations may be the next steps towards a better understanding of the responses of P. florentinoi to expected changes. Initial conservation actions are proposed based on these results and the ecology of this species.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent and future threats to the endangered Cuban toad Peltophryne longinasus: Potential additive impacts of climate change and habitat loss</title>
+      <link>https://example.com/publication/10.1017-s0030605316000612/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/10.1017-s0030605316000612/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Habitat loss and climate change are major threats to amphibian species worldwide. We combined niche modelling under various climatic scenarios with analysis of habitat loss and the appropriateness of Cuban protected areas to identify major risk zones for the Endangered Cuban toad &lt;em&gt;Peltophryne longinasus&lt;/em&gt;. Four subspecies with disjunct distributions associated with mountain forests are recognized. Our results suggest that the western subspecies, &lt;em&gt;P. longinasus longinasus&lt;/em&gt; and &lt;em&gt;P. longinasus cajalbanensis&lt;/em&gt;, are at risk from global warming, habitat degradation and potential additive effects. &lt;em&gt;Peltophryne longinasus dunni&lt;/em&gt;, in central Cuba, has the lowest threat level related to climate change and habitat loss but could become increasingly threatened by the presence of the infectious disease chytridiomycosis. The eastern subspecies, &lt;em&gt;P. longinasus ramsdeni&lt;/em&gt;, faces moderate impacts of climate change and habitat loss; however, low opportunity of migration to new areas and population decline justify a high threatened status for this subspecies. Our results predict minor temperature increases and precipitation decreases in the future. Nevertheless, at the biological level these changes could generate variations in species physiology, vocal behaviour and prey availability, and could probably increase the risk of predation. In Cuba protected areas have contributed to avoiding excessive forest loss but the potential impact of climate change was not considered in their original design. Our findings confirm that all subspecies of &lt;em&gt;P. longinasus&lt;/em&gt; are threatened but management measures should be tailored according to the various predicted impacts.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Large and medium-sized mammals of Buenaventura Reserve, southwestern Ecuador</title>
+      <link>https://example.com/publication/10.15560-13.4.35/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/10.15560-13.4.35/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Mammals are the third most threatened group of vertebrates and tropical ones are the most endangered according to recent studies. The Buenaventura Reserve protects 20 km&lt;sup&gt;2&lt;/sup&gt; of Montane Tropical forest in the southwestern part of the Ecuadorian Andes. This study estimates the mammal species richness of this reserve by using camera traps and occasional sightings. We recorded 20 species of large and medium-sized mammals in this small protected area, which shows the reserve’s important role in the conservation of these species. This study also shows the conservation priority that these forests should have in the western part of the Ecuadorian Andes.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

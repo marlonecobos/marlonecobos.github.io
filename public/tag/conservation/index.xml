@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conservation | Marlon E. Cobos</title>
+    <link>https://example.com/tag/conservation/</link>
+      <atom:link href="https://example.com/tag/conservation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conservation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Conservation</title>
+      <link>https://example.com/tag/conservation/</link>
+    </image>
+    
+    <item>
+      <title>Breeding sites of a narrowly distributed amphibian, a key element in its conservation in the face of global change</title>
+      <link>https://example.com/publication/10.1002-aqc.2967/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/10.1002-aqc.2967/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;ol style=&#34;text-align: justify;&#34;&gt;
+&lt;li&gt;Global change processes (including climate change, sea‐level rise, and land‐use change, among others) represent significant threats to biodiversity. These changes are usually studied across broad areas, and understanding their effects on narrowly distributed endangered species is challenging. &lt;em&gt;Peltophryne florentinoi&lt;/em&gt; is a critically endangered Cuban toad, restricted to two coastal localities and potentially threatened by these phenomena. Despite its endangered status, few analyses have focused on threats to its survival in the face of global change.&lt;/li&gt;
+&lt;li&gt;Current and future threats from global change to this species were evaluated using ecological niche modelling and multiscale geographic information system (GIS) approaches. Climate change effects were assessed by comparing the species niche with six future (2050) climate scenarios across its distribution area. Risks from sealevel rise were evaluated by simulating potential coastal inundation under three scenarios of sea‐level rise. Recent land‐use changes were quantified using information on the loss of forest cover between 2000 and 2015.&lt;/li&gt;
+&lt;li&gt;Within the species distribution area, warmer and drier conditions can be expected in the future. Sea‐level rise will not have direct impacts on the species range; however, occasional inundations and saltwater intrusion may present additional stressors. Although only ~2% of the forest cover has been lost in the species range and its surroundings during 2000–2015, deforestation trends were variable during this period, and future losses in forest cover can be expected.&lt;/li&gt;
+&lt;li&gt;Considering these threats, and that the colonization of new areas seems unlikely, indirect and additive adverse effects on the species can be anticipated. These impacts will most probably be observed during the larval stage of this toad; hence, breeding sites constitute a key element in the conservation of this species. Longterm studies and experimental manipulations may be the next steps towards a better understanding of the responses of P. florentinoi to expected changes. Initial conservation actions are proposed based on these results and the ecology of this species.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent and future threats to the endangered Cuban toad Peltophryne longinasus: Potential additive impacts of climate change and habitat loss</title>
+      <link>https://example.com/publication/10.1017-s0030605316000612/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/10.1017-s0030605316000612/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Habitat loss and climate change are major threats to amphibian species worldwide. We combined niche modelling under various climatic scenarios with analysis of habitat loss and the appropriateness of Cuban protected areas to identify major risk zones for the Endangered Cuban toad &lt;em&gt;Peltophryne longinasus&lt;/em&gt;. Four subspecies with disjunct distributions associated with mountain forests are recognized. Our results suggest that the western subspecies, &lt;em&gt;P. longinasus longinasus&lt;/em&gt; and &lt;em&gt;P. longinasus cajalbanensis&lt;/em&gt;, are at risk from global warming, habitat degradation and potential additive effects. &lt;em&gt;Peltophryne longinasus dunni&lt;/em&gt;, in central Cuba, has the lowest threat level related to climate change and habitat loss but could become increasingly threatened by the presence of the infectious disease chytridiomycosis. The eastern subspecies, &lt;em&gt;P. longinasus ramsdeni&lt;/em&gt;, faces moderate impacts of climate change and habitat loss; however, low opportunity of migration to new areas and population decline justify a high threatened status for this subspecies. Our results predict minor temperature increases and precipitation decreases in the future. Nevertheless, at the biological level these changes could generate variations in species physiology, vocal behaviour and prey availability, and could probably increase the risk of predation. In Cuba protected areas have contributed to avoiding excessive forest loss but the potential impact of climate change was not considered in their original design. Our findings confirm that all subspecies of &lt;em&gt;P. longinasus&lt;/em&gt; are threatened but management measures should be tailored according to the various predicted impacts.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Marlon E. Cobos</title>
+    <link>https://example.com/publication-type/2/</link>
+      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://example.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Sample data and training modules for cleaning biodiversity information</title>
+      <link>https://example.com/publication/10.17161-bi.v13i0.7600/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/10.17161-bi.v13i0.7600/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Large-scale biodiversity databases have become crucial information sources in many analyses in biogeography, macroecology, and conservation biology, often involving development of empirical models of species’ ecological niches and predictions of their geographic distributions. These analyses, however, can be impaired by the presence of errors, particularly as regards taxonomic identifications and accurate geographic coordinates. Here, we present a detailed data-cleaning exercise based on two contrasting datasets; we link these example data with a step-by-step guide to overcoming these problems and improving data quality for analyses based on these data.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Major challenges for correlational ecological niche model projections to future climate conditions</title>
+      <link>https://example.com/publication/10.1111-nyas.13873/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/10.1111-nyas.13873/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Species-level forecasts of distributional potential and likely distributional shifts, in the face of changing climates, have become popular in the literature in the past 20 years. Many refinements have been made to the methodology over the years, and the result has been an approach that considers multiple sources of variation in geographic predictions, and how that variation translates into both specific predictions and uncertainty in those predictions. Although numerous previous reviews and overviews of this field have pointed out a series of assumptions and caveats associated with the methodology, three aspects of the methodology have important impacts but have not been treated previously in detail. Here, we assess those three aspects: (1) effects of niche truncation on model transfers to future climate conditions, (2) effects of model selection procedures on future-climate transfers of ecological niche models, and (3) relative contributions of several factors (replicate samples of point data, general circulation models, representative concentration pathways, and alternative model parameterizations) to overall variance in model outcomes. Overall, the view is one of caution: although resulting predictions are fascinating and attractive, this paradigm has pitfalls that may bias and limit confidence in niche model outputs as regards the implications of climate change for species’ geographic distributions.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breeding sites of a narrowly distributed amphibian, a key element in its conservation in the face of global change</title>
+      <link>https://example.com/publication/10.1002-aqc.2967/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/10.1002-aqc.2967/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;ol style=&#34;text-align: justify;&#34;&gt;
+&lt;li&gt;Global change processes (including climate change, sea‐level rise, and land‐use change, among others) represent significant threats to biodiversity. These changes are usually studied across broad areas, and understanding their effects on narrowly distributed endangered species is challenging. &lt;em&gt;Peltophryne florentinoi&lt;/em&gt; is a critically endangered Cuban toad, restricted to two coastal localities and potentially threatened by these phenomena. Despite its endangered status, few analyses have focused on threats to its survival in the face of global change.&lt;/li&gt;
+&lt;li&gt;Current and future threats from global change to this species were evaluated using ecological niche modelling and multiscale geographic information system (GIS) approaches. Climate change effects were assessed by comparing the species niche with six future (2050) climate scenarios across its distribution area. Risks from sealevel rise were evaluated by simulating potential coastal inundation under three scenarios of sea‐level rise. Recent land‐use changes were quantified using information on the loss of forest cover between 2000 and 2015.&lt;/li&gt;
+&lt;li&gt;Within the species distribution area, warmer and drier conditions can be expected in the future. Sea‐level rise will not have direct impacts on the species range; however, occasional inundations and saltwater intrusion may present additional stressors. Although only ~2% of the forest cover has been lost in the species range and its surroundings during 2000–2015, deforestation trends were variable during this period, and future losses in forest cover can be expected.&lt;/li&gt;
+&lt;li&gt;Considering these threats, and that the colonization of new areas seems unlikely, indirect and additive adverse effects on the species can be anticipated. These impacts will most probably be observed during the larval stage of this toad; hence, breeding sites constitute a key element in the conservation of this species. Longterm studies and experimental manipulations may be the next steps towards a better understanding of the responses of P. florentinoi to expected changes. Initial conservation actions are proposed based on these results and the ecology of this species.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent and future threats to the endangered Cuban toad Peltophryne longinasus: Potential additive impacts of climate change and habitat loss</title>
+      <link>https://example.com/publication/10.1017-s0030605316000612/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/10.1017-s0030605316000612/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Habitat loss and climate change are major threats to amphibian species worldwide. We combined niche modelling under various climatic scenarios with analysis of habitat loss and the appropriateness of Cuban protected areas to identify major risk zones for the Endangered Cuban toad &lt;em&gt;Peltophryne longinasus&lt;/em&gt;. Four subspecies with disjunct distributions associated with mountain forests are recognized. Our results suggest that the western subspecies, &lt;em&gt;P. longinasus longinasus&lt;/em&gt; and &lt;em&gt;P. longinasus cajalbanensis&lt;/em&gt;, are at risk from global warming, habitat degradation and potential additive effects. &lt;em&gt;Peltophryne longinasus dunni&lt;/em&gt;, in central Cuba, has the lowest threat level related to climate change and habitat loss but could become increasingly threatened by the presence of the infectious disease chytridiomycosis. The eastern subspecies, &lt;em&gt;P. longinasus ramsdeni&lt;/em&gt;, faces moderate impacts of climate change and habitat loss; however, low opportunity of migration to new areas and population decline justify a high threatened status for this subspecies. Our results predict minor temperature increases and precipitation decreases in the future. Nevertheless, at the biological level these changes could generate variations in species physiology, vocal behaviour and prey availability, and could probably increase the risk of predation. In Cuba protected areas have contributed to avoiding excessive forest loss but the potential impact of climate change was not considered in their original design. Our findings confirm that all subspecies of &lt;em&gt;P. longinasus&lt;/em&gt; are threatened but management measures should be tailored according to the various predicted impacts.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Large and medium-sized mammals of Buenaventura Reserve, southwestern Ecuador</title>
+      <link>https://example.com/publication/10.15560-13.4.35/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/10.15560-13.4.35/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Mammals are the third most threatened group of vertebrates and tropical ones are the most endangered according to recent studies. The Buenaventura Reserve protects 20 km&lt;sup&gt;2&lt;/sup&gt; of Montane Tropical forest in the southwestern part of the Ecuadorian Andes. This study estimates the mammal species richness of this reserve by using camera traps and occasional sightings. We recorded 20 species of large and medium-sized mammals in this small protected area, which shows the reserve’s important role in the conservation of these species. This study also shows the conservation priority that these forests should have in the western part of the Ecuadorian Andes.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

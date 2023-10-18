@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biodiversity survey | Marlon E. Cobos</title>
+    <link>https://example.com/tag/biodiversity-survey/</link>
+      <atom:link href="https://example.com/tag/biodiversity-survey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Biodiversity survey</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Biodiversity survey</title>
+      <link>https://example.com/tag/biodiversity-survey/</link>
+    </image>
+    
+    <item>
+      <title>Large and medium-sized mammals of Buenaventura Reserve, southwestern Ecuador</title>
+      <link>https://example.com/publication/10.15560-13.4.35/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/10.15560-13.4.35/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Mammals are the third most threatened group of vertebrates and tropical ones are the most endangered according to recent studies. The Buenaventura Reserve protects 20 km&lt;sup&gt;2&lt;/sup&gt; of Montane Tropical forest in the southwestern part of the Ecuadorian Andes. This study estimates the mammal species richness of this reserve by using camera traps and occasional sightings. We recorded 20 species of large and medium-sized mammals in this small protected area, which shows the reserve’s important role in the conservation of these species. This study also shows the conservation priority that these forests should have in the western part of the Ecuadorian Andes.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
