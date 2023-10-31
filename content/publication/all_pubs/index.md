@@ -97,22 +97,3 @@ table th:nth-of-type(2) {
 |3|**Cobos, M. E.** 2023. Integrating Multiple Approaches for Comprehensive Correlative Ecological Niche Modeling. *Doctoral Thesis*. University of Kansas.|
 |2|**Cobos, M. E.** 2016. Posibles implicaciones del cambio climático sobre la distribución de las especies del género *Peltophryne* (Anura: Bufonidae) en Cuba. *Master's Thesis*. Universidad de La Habana.|
 |1|**Cobos, M. E.** 2012. Distribución potencial de la rana toro (*Lithobates catesbeiana*, Anfibia: Anura) y su relación con la fragmentación de hábitats en Zamora Chinchipe, Ecuador. *Bachelor's Thesis*. Universidad Nacional de Loja.|
-
-<hr>
-
-### Articles in prep., in review, in press, and pre-prints
-
-|||
-|:---|:---|
-|12|**Cobos, M. E.**, Dunnum, J. L., Armién, B., Gonzalez, P., Juarez, E., ..., & Colella, J. P. *In prep*. Strategic surveillance of zoonotic pathogens: A case study of Hantaviruses in Panama.|
-|11|**Cobos, M. E.**, Winters, T., Martinez, I., Yao, Y., Xiao, X., & Peterson, A. T. *In prep*. Time-specific ecological niche models to assess spatio-temporal activity of *Amblyomma americanum* in the central Great Plains.|
-|10|Ng’eno, E., **Cobos, M. E.**, Romero-Alvarez, D., Alkishe, A., & Peterson, A. T. *In prep*. Complex phenology of five tick species in the central Great Plains.|
-|9|Peterson, A. T., Yao, Y., **Cobos, M. E.**, & Xiao, X. *In prep*. Correlative ecological niche model applications to predicting landscape-scale woody plant encroachment in Kansas tallgrass prairie systems.|
-|8|Barve, N., Ashraf, U., Barve, V., **Cobos, M. E.**, Nuñez-Penichet, C., & Peterson, A. T. *In prep*. Revisiting plant hardiness zones to include multiple climatic stress dimensions.|
-|7|DeRaad, D., **Cobos, M. E.**, DeCicco, L., Venkatraman, M. X., Garrett, K. L., ..., & Schultz, A. *In prep*. Revealing the source and potential spread of introduced *Zosterops* white-eyes in North America using genomics and ecological niche modeling.|
-|6|Arias-Giraldo, L. F., **Cobos, M. E.**, & Peterson, A. T. *In review*. enmpa: An R package for ecological niche modeling using presence-absence data and generalized linear models. *Biodiversity Informatics*|
-|5|Arias-Giraldo, L. F., **Cobos, M. E.**, Peterson, A. T., Landa, B. B., & Navas-Cortés, J. A. *In prep*. V d in Andalusia.|
-|4|**Cobos, M. E.**, Owens, H. L., Soberón, J., & Peterson, A. T. *In review*. Detailed characterizations of non-analogous conditions in multivariate environmental comparisons via the Mobility Oriented Parity metric. *Frontiers of Biogeography*. [BioRxiv Link](https://doi.org/10.17161/bi.v14i0.8189)|
-|3|Peterson, A. T., **Cobos, M. E.**, Sikes, B., Soberón, J., Osorio-Olvera, L., ..., & Emmett, A. *In review*. Relationships among cost, citation, and access in journal publishing by an Ecology and Evolutionary Biology Department at a U.S. University. *PeerJ*|
-|2|Alkishe, A., **Cobos, M. E.**, & Peterson, A. T. *In review*. Broad-scale ecological niches of pathogens vectored by the ticks *Ixodes scapularis* and *Amblyomma americanum* in North America. *PeerJ*|
-|1|**Cobos, M. E.**, Osorio-Olvera, L., & Peterson, A. T. 2019. Revealing the source and potential spread of introduced *Zosterops* white-eyes in North America using genomics and ecological niche modeling. *BioRxiv*. [Link](https://doi.org/10.17161/bi.v14i0.8189)|
