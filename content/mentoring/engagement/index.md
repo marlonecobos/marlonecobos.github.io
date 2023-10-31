@@ -20,7 +20,7 @@ tags:
 title: Science Engagement
 ---
 
-I firmly believe that bridging the gap between scientific research and the wider community is essential. Through my work and well thought communication strategies, I aim to ignite curiosity and foster a deeper appreciation for science among people of all ages. Whether it is sharing my research findings with a broader audience, participating in outreach programs, or mentoring aspiring young scientists, I see science engagement as a two-way street. It not only enriches the public's understanding of the world but also enriches my own perspective, reminding me of the real-world impact and importance of research. In this exciting journey, I hope to inspire others to join me in the thrilling pursuit of knowledge and discovery.
+I believe that bridging the gap between scientific research and the wider community is essential. Through my work and well thought communication strategies, I aim to ignite curiosity and foster a deeper appreciation for science among people of all ages. Whether it is sharing my research findings with a broader audience, participating in outreach programs, or mentoring aspiring young scientists, I see science engagement as a two-way street. It not only enriches the public's understanding of the world but also enriches my own perspective, reminding me of the real-world impact and importance of research. Although my experience in this area is limited, I am committed to improvement in order to inspire others to join me in the thrilling pursuit of knowledge and discovery.
 {style="text-align: justify;"}
 
 <br>

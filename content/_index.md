@@ -53,10 +53,10 @@ sections:
 - block: portfolio
   content:
     buttons:
-    - name: Disease Biogeography
-      tag: Disease biogeography
+    - name: Biogeography
+      tag: Biogeography
     - name: Methods and Tools
-      tag: Biodiversity informatics
+      tag: Methods and tools
     - name: Evolutionary Adaptation
       tag: Evolutionary adaptation
     default_button_index: 0
@@ -70,7 +70,7 @@ sections:
   id: projects
 - block: collection
   content:
-    count: 4
+    count: 5
     filters:
       exclude_featured: yes
       folders: 

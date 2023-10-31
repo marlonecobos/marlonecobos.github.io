@@ -5,9 +5,10 @@ image:
   caption: Cobos 2023
   focal_point: Smart
 links:
-slides: biodiversity-informatics
-summary: A collection for ecological modeling and simulations.
+slides: Methods and tools
+summary: A collection of tools for ecological modeling and simulations.
 tags:
+- Methods and tools
 - Biodiversity informatics
 - Ecological niche modeling
 - Dispersal simulations
@@ -50,3 +51,7 @@ suitable conditions exist.
 <br>
 
 ### To do list
+
+- We are currently facing a significant challenge as we work towards updating our tools.
+
+<br>
