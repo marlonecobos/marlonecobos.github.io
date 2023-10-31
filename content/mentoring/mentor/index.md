@@ -70,7 +70,7 @@ table th:nth-of-type(3) {
 
 <br>
 
-|**Janey Bryce**|||
+|**Janey B. Haddock**|||
 |---|---|---|
 |<img src="janey.jpg" align="left" width="1000px"/>||Janey graduated from the University of Maryland Global Campus. During her post-bacc at the University of Kansas, in the Colella lab, she focused on a project aiming to understand recent changes in small mammal communities in the State of Kansas. She is now in a Master's program at Universidad Autónoma del Estado de México. Other collaborators in this project include Claudia Nuñez-Penichet and Jocelyn Colella.|
 
