@@ -6,7 +6,7 @@ categories:
 date: "2023-09-20T00:00:00Z"
 draft: false
 featured: true
-lastmod: "2023-09-20T00:00:00Z"
+lastmod: "2024-04-07T00:00:00Z"
 projects: []
 subtitle: "We Learn Together"
 summary: "A description of my mentoring experience."
@@ -48,7 +48,7 @@ table th:nth-of-type(3) {
 
 |**Weverton Trindade**|||
 |---|---|---|
-|<img src="weverton.jpg" align="left" width="1000px"/>||Weverton graduated from Universidade de Coimbra, and did his master's at Universidade Estadual de Ponta Grossa in Brazil. He is currently a Ph.D. student at Universidade Federal do Paraná. We met when Weverton came to KU as a research visitor and started working on an independent project focused on improving model selection routines for ecological niche modeling. The routines Weverton is developing can be applied to studies using ENM methods for a more robust selection of model parameters. These tools will available soon as part of a new version of the R package `kuenm`. Other collaborators in these projects include Jorge Soberón, and Town Peterson.|
+|<img src="weverton.jpg" align="left" width="1000px"/>||Weverton graduated from Universidade de Coimbra, and did his master's at Universidade Estadual de Ponta Grossa in Brazil. He recently obtained his Ph.D. at Universidade Federal do Paraná. Weverton is now a postdoc at at Universidade Federal do Paraná and we keep collaborating. We met when Weverton came to KU as a research visitor and started working on an independent project focused on improving model selection routines for ecological niche modeling. The routines Weverton is developing can be applied to studies using ENM methods for a more robust selection of model parameters. These tools will available soon as part of a new version of the R package `kuenm`. Other collaborators in these projects include Luis Osorio-Olvera, Jorge Soberón, and Town Peterson.|
 
 <br>
 
@@ -66,7 +66,7 @@ table th:nth-of-type(3) {
 
 |**Alexander Hey**|||
 |---|---|---|
-|<img src="alex.jpeg" align="left" width="1000px"/>||Alex graduated from Colorado State University. He is also part of the Colella lab, doing his Master's in the EEB Department at the University of Kansas. His project focuses on developing time-specific ecological niche models for the species *Oligoryzomys costaricensis*. Alex's project is also part of a long-term aiming to understand the dynamics of hantavirus prevalence in host populations in Panama. Other collaborators in this project include Danny Ibañez, Joe Cook, and Jocelyn Colella.|
+|<img src="alex.jpeg" align="left" width="1000px"/>||Alex graduated from Colorado State University. He is also part of the Colella lab, doing his Master's in the EEB Department at the University of Kansas. His project focuses on developing time-specific ecological niche models for the species *Oligoryzomys costaricensis*. Alex's project is also part of a long-term effort aiming to understand the dynamics of hantavirus prevalence in host populations in Panama. Other collaborators in this project include Danny Ibañez, Joe Cook, and Jocelyn Colella.|
 
 <br>
 
