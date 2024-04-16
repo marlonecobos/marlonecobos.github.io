@@ -27,11 +27,14 @@ I believe that bridging the gap between scientific research and the wider commun
 
 ### Engagement activities
 
-*Outreach (Broader Impacts):* **Microbes on the move**. *Activities:* Review of Spanish translations of existing outreach materials; Spanish translations of social media posts; general outreach activities in places visited. *Scope:* Three cities in the state of Kansas. Biodiversity Institute, *University of Kansas*. Kansas, USA. July, 2022
+*Outreach (Broader Impacts):* **Ticks in Kansas: Where and when to find them**. *Activities:* Science engagement activity for adult citizens at the University of Kansas Field Station; Topic: Kansas ticks, their distribution, phenology, and associated pathogens. *Scope:* A presentation and meeting with Kansas citizens. Biodiversity Institute and KU Field Station, *University of Kansas*. Kansas, USA. April, 2024.
 {style="text-align: justify;"}
 
-*Environmental education program:* **Battery disposal awareness campaign**. *Activities:* Design of content and teaching materials for primary schools; Presentation of contents and educational activities in primary schools with the involvement of teachers and students. *Scope:* Ten rural schools. *El Guismi DAG*. Zamora Chinchipe, Ecuador. 2012-2013
+*Outreach (Broader Impacts):* **Microbes on the move**. *Activities:* Review of Spanish translations of existing outreach materials; Spanish translations of social media posts; general outreach activities in places visited. *Scope:* Three cities in the state of Kansas. Biodiversity Institute, *University of Kansas*. Kansas, USA. July, 2022.
 {style="text-align: justify;"}
 
-*Environmental education program:* **Plastic bottle recycling campaign**. *Activities:* Design of content and teaching materials for primary schools; Presentation of contents and educational activities in primary schools with the involvement of authorities, teachers, and students. Design of mechanisms to collect, store, and recycle collected materials. *Scope:* Ten rural schools. *El Guismi DAG*. Zamora Chinchipe, Ecuador. 2012-2013
+*Environmental education program:* **Battery disposal awareness campaign**. *Activities:* Design of content and teaching materials for primary schools; Presentation of contents and educational activities in primary schools with the involvement of teachers and students. *Scope:* Ten rural schools. *El Guismi DAG*. Zamora Chinchipe, Ecuador. 2012-2013.
+{style="text-align: justify;"}
+
+*Environmental education program:* **Plastic bottle recycling campaign**. *Activities:* Design of content and teaching materials for primary schools; Presentation of contents and educational activities in primary schools with the involvement of authorities, teachers, and students. Design of mechanisms to collect, store, and recycle collected materials. *Scope:* Ten rural schools. *El Guismi DAG*. Zamora Chinchipe, Ecuador. 2012-2013.
 {style="text-align: justify;"}
