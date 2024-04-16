@@ -19,7 +19,7 @@ main:
   - name: Software
     url: '#software'
     weight: 60
-  - name: Mentoring
+  - name: Mentoring-Engagement
     url: '#mentoring'
     weight: 70
   - name: Contact
