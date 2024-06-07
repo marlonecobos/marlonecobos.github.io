@@ -1,5 +1,5 @@
 ---
-bio: My research interests include biogeography, methods and tools for predictive modeling, and evolutionary adaptation.
+bio: My research interests include ecology and biogeography, methods and tools for predictive modeling, and evolutionary adaptation.
 education:
   courses:
   - course: PhD in Ecology and Evolutionary Biology
