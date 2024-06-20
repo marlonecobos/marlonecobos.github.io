@@ -28,7 +28,7 @@ Hantaviruses are RNA viruses associated with rodents and other mammals that caus
 
 ## Suitability dynamics
 
-Below you an find a GIF animation that shows dynamic suitability landscapes for *Oligoryzomys coastaricensis*. This animation shows monthly predictions of suitability 2000-2018.
+Below you can find a GIF animation that shows dynamic suitability landscapes for *Oligoryzomys coastaricensis*. This animation shows monthly predictions of suitability 2000-2018.
 {style="text-align: justify;"}
 
 <img src="olco.gif" align="center"/>
