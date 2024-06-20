@@ -39,7 +39,7 @@ Tick questing activity refers to the behavior of ticks actively seeking a host t
 
 **Monthly summaries**
 
-<img src="S2_File.gif" align="center"/>
+<img src="S4_File.gif" align="center"/>
 
 <br>
 
