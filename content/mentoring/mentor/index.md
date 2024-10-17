@@ -40,6 +40,18 @@ table th:nth-of-type(3) {
 }
 </style>
 
+|**Danielle M. Land**|||
+|---|---|---|
+|<img src="danielle.jpeg" align="left" width="1000px"/>||Danielle graduated and did her master's at University of New Mexico. She is currently a Ph.D. student at the University of Kansas. I have been mentoring Danielle on a project focused on understanding Asian Biogeography using shrews as a model. Danielle is using a set of tools, including ecological niche modeling, to explore current and past landscapes of suitability for shrews as a way to understand historical processes that shaped the biodiversity patterns that are observed nowadays. Other collaborators in these projects include Joe Cook and Jocelyn Colella.|
+
+<br>
+
+|**Mackenzie Grover**|||
+|---|---|---|
+|<img src="kenzie.jpg" align="left" width="1000px"/>||Kenzie graduated from University of Wisconsin - Stevens Point, and did her master's at Northern Michigan University. She is currently a Ph.D. student at the University of Kansas. Kenzie's project goal is to identify strategies to improve models to characterize ecological requirements and distributions of parasites. Her project aims to define protocols that allow better integration of natural history and ecological considerations when modeling parasite niches and distributions. Other collaborators in these projects include Kurt Galbreath and Jocelyn Colella.|
+
+<br>
+
 |**Luis F. Arias-Giraldo**|||
 |---|---|---|
 |<img src="lfelipe.jpg" align="left" width="1000px"/>||Luis Felipe graduated from Universidad de Córdoba, and did his master's at Universidad de Valecia in Spain. He is currently a Ph.D. student at the Spanish National Research Council. Luis Felipe visited KU and since then I have been mentoring him on a project focused on developing innovative methods and statistical tools for comprehensive ecological niche modeling using presence absence records. The methods and tools developed are generally applicable and will be soon available as a new R package, `enmpa`. An application of these methods lead by Luis is focused geographically in Andalusia, Spain, where he is modeling risks derived from the fungus *Verticillium dahliae* to Olive and Cotton plantations. Other collaborators in these projects include Blanca Landa, Juan Navas-Cortés, and Town Peterson.|
