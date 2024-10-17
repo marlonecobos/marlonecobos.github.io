@@ -1,10 +1,10 @@
 ---
-bio: My research interests include ecology and biogeography, methods and tools for predictive modeling, and evolutionary adaptation.
+bio: My research interests include disease ecology and biogeography, and methods and tools for predictive modeling.
 education:
   courses:
   - course: PhD in Ecology and Evolutionary Biology
     institution: University of Kansas
-    year: Present
+    year: 2023
   - course: MSc in Zoology and Animal Ecology
     institution: Havana University
     year: 2016
@@ -16,9 +16,8 @@ first_name: Marlon E.
 highlight_name: true
 last_name: Cobos
 interests:
-- Disease Biogeography
+- Disease Ecology and Biogeography
 - Ecological Modeling
-- Physiology
 - Genomics
 - Open Science
 organizations:
@@ -60,5 +59,5 @@ title: Marlon E. Cobos
 
 ### Research interests
 
-My interests center around data integration and ecological modeling, with the overarching goal of comprehending ecological and biogeographic patterns, as well as the potential impacts of global change on biodiversity. My research focuses in three areas: (1) biogeography with emphasis on disease dynamics and risk mapping; (2) methods and tool development for predictive modeling; and (3) integration of evolutionary principles in predictive modeling. I am deeply committed to promoting open science via open-source software development, and through active promotion of diversity, equity, inclusion, and belonging in science.
+My interests center around data integration and ecological modeling, with the overarching goal of comprehending ecological and biogeographic patterns, as well as the potential impacts of global change on biodiversity. My research focuses in three areas: (1) disease ecology and biogeography, and (2) methods and tool development for predictive modeling. I am deeply committed to promoting open science via open-source software development, and through active promotion of diversity, equity, inclusion, and belonging in science.
 {style="text-align: justify;"}
