@@ -18,7 +18,7 @@ title:
   "Mentoring"
 ---
 
-Mentoring is a truly fulfilling experience for me. As a early career scientist, I find immense joy in guiding and motivating the next generation of researchers. Through mentoring, I get to share not only my expertise but also the valuable lessons I have learned throughout my own journey. It is an opportunity to nurture students passion and curiosity, helping them grow into confident new scientist. It is more that me teaching them, they teach me new things every day. By mentoring new scientists, I am not just passing on knowledge; I'm contributing to the continuous progress of science, ensuring a brighter future for all of us.
+Mentoring is a truly fulfilling experience for me. As a early career scientist, I find immense joy in guiding and motivating the next generation of researchers. Through mentoring, I get to share not only my expertise but also the valuable lessons I have learned throughout my own journey. It is an opportunity to nurture students passion and curiosity, helping them grow into confident new scientist. It is more that me teaching them, they teach me new things every day. 
 {style="text-align: justify;"}
 
 Below I list graduate and undergraduate students that have developed research projects under my mentorship.

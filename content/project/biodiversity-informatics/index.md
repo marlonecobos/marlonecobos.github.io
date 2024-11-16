@@ -52,6 +52,6 @@ suitable conditions exist.
 
 ### To do list
 
-- We are currently facing a significant challenge as we work towards updating our tools.
+- We are currently updating our tools and finishing new ones! 
 
 <br>
