@@ -136,10 +136,10 @@ sections:
         Jayhawk Blvd</a>
     autolink: yes
     contact_links:
-    - icon: twitter
+    - icon: linkedin
       icon_pack: fab
-      link: https://twitter.com/Marlon_E_Cobos
-      name: '@Marlon_E_Cobos'
+      link: https://www.linkedin.com/in/marlon-e-cobos-009203b4/
+      name: 'Marlon E. Cobos'
     - icon: github
       icon_pack: fab
       link: https://github.com/marlonecobos

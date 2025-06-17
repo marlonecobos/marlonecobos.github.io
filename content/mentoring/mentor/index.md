@@ -40,6 +40,12 @@ table th:nth-of-type(3) {
 }
 </style>
 
+|**Daniel Abreu**|||
+|---|---|---|
+|<img src="daniel_a.jpg" align="left" width="1000px"/>||Daniel graduated from EAFIT University in Colombia. Hi is starting his master's at Uppsala University in August 2025. I am mentoring Daniel on a project focused on characterizing bacterial pathogen diversity in bats. Daniel is using metagenomic tools to explore nanopore sequences in order to identify pathogenic bacteria in multiple species of bats from Ecuador. Other collaborators in this project include Jocelyn Colella, Ben Wiens, and Alexander Hey.|
+
+<br>
+
 |**Danielle M. Land**|||
 |---|---|---|
 |<img src="danielle.jpeg" align="left" width="1000px"/>||Danielle graduated and did her master's at University of New Mexico. She is currently a Ph.D. student at the University of Kansas. I have been mentoring Danielle on a project focused on understanding Asian Biogeography using shrews as a model. Danielle is using a set of tools, including ecological niche modeling, to explore current and past landscapes of suitability for shrews as a way to understand historical processes that shaped the biodiversity patterns that are observed nowadays. Other collaborators in these projects include Joe Cook and Jocelyn Colella.|
@@ -60,7 +66,7 @@ table th:nth-of-type(3) {
 
 |**Weverton Trindade**|||
 |---|---|---|
-|<img src="weverton.jpg" align="left" width="1000px"/>||Weverton graduated from Universidade de Coimbra, and did his master's at Universidade Estadual de Ponta Grossa in Brazil. He recently obtained his Ph.D. at Universidade Federal do Paraná. Weverton is now a postdoc at at Universidade Federal do Paraná and we keep collaborating. We met when Weverton came to KU as a research visitor and started working on an independent project focused on improving model selection routines for ecological niche modeling. The routines Weverton is developing can be applied to studies using ENM methods for a more robust selection of model parameters. These tools will available soon as part of a new version of the R package `kuenm`. Other collaborators in these projects include Luis Osorio-Olvera, Jorge Soberón, and Town Peterson.|
+|<img src="weverton.jpg" align="left" width="1000px"/>||Weverton graduated from Universidade de Coimbra, and did his master's at Universidade Estadual de Ponta Grossa in Brazil. He recently obtained his Ph.D. at Universidade Federal do Paraná. Weverton is now a postdoc at at Universidade Federal do Paraná and we keep collaborating. We met when Weverton came to KU as a research visitor and started working on an independent project focused on improving model selection routines for ecological niche modeling. The routines Weverton is developing can be applied to studies using ENM methods for a more robust selection of model parameters. These tools will available soon as part of a new version of the R package `kuenm`. Other collaborators in these projects include Luis F. Arias-Giraldo, Luis Osorio-Olvera, Jorge Soberón, and Town Peterson.|
 
 <br>
 

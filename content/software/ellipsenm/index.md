@@ -25,14 +25,22 @@ title: ellipsenm
 
 ## What is ellipsenm?
 
-**ellipsenm** is an R package that implements multiple tools to help in using ellipsoid envelopes to model ecological niches of species. Handy options for calibrating and selecting models, producing models with replicates and projections, and assessing niche overlap are included as part of this package. Other functions implemented here are useful to perform a series of pre- and post-modeling analyses. A good reference of it use in research is [Nuñez et al. (2021)](https://escholarship.org/uc/item/4f00x5r6).
+**ellipsenm** is an R package that implements multiple tools to help in using 
+ellipsoid envelopes to model ecological niches of species. Handy options for 
+calibrating and selecting models, producing models with replicates and 
+projections, and assessing niche overlap are included as part of this package. 
+Other functions implemented here are useful to perform a series of pre- and 
+post-modeling analyses. A good reference of it use in research is 
+[Nuñez et al. (2021)](https://escholarship.org/uc/item/4f00x5r6).
 {style="text-align: justify;"}
 
 <img src="featured.gif" align="center"/>
 
 ## Check the ellipsenm package
 
-If you want to try this tool you can install it on R from GitHub using `remotes::install_github("marlonecobos/ellipsenm")`. An example of its use can be found [here](https://github.com/marlonecobos/ellipsenm#ellipsenm-an-r-package-for-ecological-niches-characterization-usingellipsoids).
+If you want to try this tool you can install it on R from GitHub using 
+`remotes::install_github("marlonecobos/ellipsenm2")`. The package and an example 
+of its use can be found [here](https://github.com/marlonecobos/ellipsenm2).
 {style="text-align: justify;"}
 
 <br>
