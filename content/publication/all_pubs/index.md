@@ -7,7 +7,7 @@ date: ''
 draft: false
 featured: true
 image:
-lastmod: "2023-09-20T00:00:00Z"
+lastmod: "2025-06-18T00:00:00Z"
 projects: []
 subtitle: "A list of all my publications"
 summary: ""
