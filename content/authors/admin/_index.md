@@ -42,9 +42,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Marlon_E_Cobos
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/marlon-e-cobos-009203b4/
