@@ -42,7 +42,7 @@ table th:nth-of-type(3) {
 
 |**Daniel Abreu**|||
 |---|---|---|
-|<img src="daniel_a.jpg" align="left" width="1000px"/>||Daniel graduated from EAFIT University in Colombia. Hi is starting his master's at Uppsala University in August 2025. I am mentoring Daniel on a project focused on characterizing bacterial pathogen diversity in bats. Daniel is using metagenomic tools to explore nanopore sequences in order to identify pathogenic bacteria in multiple species of bats from Ecuador. Other collaborators in this project include Jocelyn Colella, Ben Wiens, and Alexander Hey.|
+|<img src="daniel_a.jpg" align="left" width="1000px"/>||Daniel graduated from EAFIT University in Colombia. He is starting his master's at Uppsala University in August 2025. I am mentoring Daniel on a project focused on characterizing bacterial pathogen diversity in bats. Daniel is using metagenomic tools to explore nanopore sequences in order to identify pathogenic bacteria in multiple species of bats from Ecuador. Other collaborators in this project include Jocelyn Colella, Ben Wiens, and Alexander Hey.|
 
 <br>
 
